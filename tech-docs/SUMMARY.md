@@ -1,0 +1,18 @@
+# Table of contents
+
+* [Welcome](README.md)
+  * [Getting Started](readme/quickstart.md)
+* [Code Management](images-and-media/README.md)
+  * [Instances](images-and-media/instances.md)
+  * [Repostitories](images-and-media/repostitories.md)
+  * [Changes](images-and-media/changes.md)
+  * [Commit changes](images-and-media/commit-changes.md)
+  * [Collections](images-and-media/collections.md)
+  * [Promote](images-and-media/promote.md)
+  * [Merge conflicts](images-and-media/merge-conflicts.md)
+  * [Deploy](images-and-media/deploy.md)
+  * [Release management strategies](images-and-media/release-management-strategies.md)
+  * [Cron syntax](images-and-media/cron-syntax.md)
+* [Infinit](editor/README.md)
+  * [Getting Started](editor/markdown.md)
+* [Glossary](glossary.md)
