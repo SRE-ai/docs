@@ -6,7 +6,7 @@
   * [Instances](images-and-media/instances.md)
   * [Repostitories](images-and-media/repostitories.md)
   * [Changes](images-and-media/changes.md)
-  * [Commit changes](images-and-media/commit-changes.md)
+  * [Commits](images-and-media/commits.md)
   * [Collections](images-and-media/collections.md)
   * [Promote](images-and-media/promote.md)
   * [Merge conflicts](images-and-media/merge-conflicts.md)
