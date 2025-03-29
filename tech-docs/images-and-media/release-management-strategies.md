@@ -1,8 +1,6 @@
----
-description: Learn how to implement release management strategies in SRE.ai.
----
-
 # Release management strategies
+
+Learn **how to implement effective release management strategies** in SRE.ai.
 
 An effective release management process requires a stable, practical environment strategy and a clear branching strategy.
 
