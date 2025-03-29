@@ -6,7 +6,7 @@ description: >-
 
 # Instances
 
-Instances allow you to create connections to your Salesforce environments and assign them a specific purpose, such as:
+In SRE.ai, **Instances** allow you to create connections to your Salesforce environments and assign them a specific purpose, such as:
 
 * Development
 * Code integration
@@ -26,9 +26,9 @@ You can connect to your Salesforce environments in three ways:
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
-An Instance can be associated with a git branch, allowing you to commit and promote (merge and deploy) changes while managing git workflows in the background.
+An Instance can be associated with a git branch, allowing you to commit and [**Promote**](promote.md) (merge and deploy) changes while managing git workflows in the background.
 
-You can also set a parent Instance to create a deployment pipeline and use the environment strategy of your choice.
+You can also set a **Parent Instance** to create a deployment pipeline and use the environment strategy of your choice.
 
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 

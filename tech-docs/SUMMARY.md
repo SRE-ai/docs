@@ -15,4 +15,3 @@
   * [Cron syntax](images-and-media/cron-syntax.md)
 * [Infinit](editor/README.md)
   * [Getting Started](editor/markdown.md)
-* [Glossary](glossary.md)
