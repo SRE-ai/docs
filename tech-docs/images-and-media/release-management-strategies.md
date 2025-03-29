@@ -8,7 +8,9 @@ An effective release management process requires a stable, practical environment
 
 An environment strategy outlines the efficient, reliable, and sustainable management and deployment of software to various environments (e.g., development, testing, staging, etc.) used in the software development process.
 
-An environment strategy may include automation techniques and measures to ensure proper configuration and maintenance of the environments.SRE.ai provides instances that connect to Salesforce environments (Production, Sandbox, or Scratch Orgs) and abstract the underlying environment, which may change over time.&#x20;
+An environment strategy may include automation techniques and measures to ensure proper configuration and maintenance of the environments.
+
+SRE.ai provides instances that connect to Salesforce environments (Production, Sandbox, or Scratch Orgs) and abstract the underlying environment, which may change over time.&#x20;
 
 You can assign an instance to a branch that reflects the current state of the environment.&#x20;
 
