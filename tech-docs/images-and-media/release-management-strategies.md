@@ -8,15 +8,15 @@ An effective release management process requires a stable, practical environment
 
 ### Environment Strategy
 
-An Environment Strategy outlines the efficient, reliable, and sustainable management and deployment of software to various environments (e.g., development, testing, staging, etc.) used in the software development process.
+An environment strategy outlines the efficient, reliable, and sustainable management and deployment of software to various environments (e.g., development, testing, staging, etc.) used in the software development process.
 
-An environment strategy may include automation techniques and measures to ensure proper configuration and maintenance of the environments.
+An environment strategy may include automation techniques and measures to ensure proper configuration and maintenance of the environments.SRE.ai provides instances that connect to Salesforce environments (Production, Sandbox, or Scratch Orgs) and abstract the underlying environment, which may change over time.&#x20;
 
-SRE.ai provides instances that connect to Salesforce environments (Production, Sandbox, or Scratch Orgs) and abstract the underlying environment, which may change over time.
+You can assign an instance to a branch that reflects the current state of the environment.&#x20;
 
-You can assign an instance to a branch that reflects the current state of the environment. You can also connect such an instance to a parent instance representing the next environment in the release process. For example, a child instance for development can connect to a parent instance for quality assurance.
+You can also connect such an instance to a parent instance representing the next environment in the release process. For example, a child instance for development can connect to a parent instance for quality assurance.
 
-A parent instance can have multiple child instances, forming a hierarchy. The hierarchy enables features to flow forward to the parent instance through the promote process. Features can flow backward to other child instances through the back promote process.
+A parent instance can have multiple child instances, forming a hierarchy. The hierarchy enables features to flow forward to the parent instance through the promote process. Features can flow backward to other child instances through the back promote process.&#x20;
 
 A typical Environment Strategy may look like this:
 
