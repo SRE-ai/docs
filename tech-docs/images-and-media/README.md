@@ -1,5 +1,6 @@
 ---
 description: Learn how SRE.ai handles code management.
+hidden: true
 icon: code
 ---
 

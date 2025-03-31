@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Welcome](README.md)
-  * [Getting Started](readme/quickstart.md)
+* [Getting Started](README.md)
+* [Welcome](readme.md)
 * [Code Management](images-and-media/README.md)
   * [Instances](images-and-media/instances.md)
   * [Repostitories](images-and-media/repostitories.md)
