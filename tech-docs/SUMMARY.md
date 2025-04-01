@@ -1,6 +1,10 @@
 # Table of contents
 
 * [Getting Started](README.md)
+  * [Salesforce integration](quickstart/salesforce-integration.md)
+  * [GitHub integration](quickstart/github-integration.md)
+  * [Jira integration](quickstart/jira-integration.md)
+  * [Slack integration](quickstart/slack-integration.md)
 * [Welcome](readme.md)
 * [Code Management](images-and-media/README.md)
   * [Instances](images-and-media/instances.md)
