@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Slack integration
 
 ## Overview

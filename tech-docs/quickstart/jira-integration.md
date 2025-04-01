@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Jira integration
 
 ## Overview
