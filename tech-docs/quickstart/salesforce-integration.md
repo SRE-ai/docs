@@ -45,7 +45,7 @@ A connected app will enable you to integrate Salesforce CLI with Salesforce usin
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdo-LJ5jA_HbkALZ5x6LXPsGNoeQGmKsx6qcl35G0f9UPG7kTof89vwPEtkGFlHwtPEpHecV3_PjdfPkRRjxfINTBuQkF9CAY_hvKScw5rH6q_e2pV29HRRx7NCrrXH-E1xDQoORQ?key=DkBAADFS-Ge2WW_jAdqd55hX" alt=""><figcaption></figcaption></figure>
 
-3. Select the **Certificate** tab in **Settings**
+3. Select the **Certificate** tab under **Settings**
 4. Click **Generate New** to download a certificate necessary for creating a connected app.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfETZ7_w4RTkMfl01qbvQYGF5KPVqknAwGDXzK9Qc0TmRSqd-66zu0Ei7J571C-9Pj41z4dOiAzkoy1ZsKeA025KWYi-jeSYDwZWrf7SYHio08o9CCH0wZPB3T-BQsE9umBekDwQg?key=DkBAADFS-Ge2WW_jAdqd55hX" alt=""><figcaption></figcaption></figure>
