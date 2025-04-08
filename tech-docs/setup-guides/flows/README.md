@@ -43,3 +43,13 @@ Flows make it accessible for users of all technical backgrounds and reduce the l
 Orchestrate complex workflows involving multiple steps and dependencies.
 
 Flows ensure steps execute in the correct order. You define the right conditions and criteria to keep the process smooth and error-free.
+
+## **Getting Started with Flows**
+
+Get started with Flows by:
+
+* Defining your workflow with the intuitive interface
+* Setting your triggers
+* Selecting the necessary elements
+
+Flows will take care of the rest, ensuring your processes run smoothly and efficiently.
