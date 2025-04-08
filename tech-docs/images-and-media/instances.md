@@ -6,6 +6,12 @@ description: >-
 
 # Instances
 
+## Implementation of instances
+
+<details>
+
+<summary>Click to learn more about the implementation of instances</summary>
+
 In SRE.ai, **Instances** allow you to create connections to your Salesforce environments and assign them a specific purpose, such as:
 
 * Development
@@ -28,6 +34,10 @@ You can connect to your Salesforce environments in three ways:
 
 An Instance can be associated with a git branch, allowing you to commit and [**Promote**](promote.md) (merge and deploy) changes while managing git workflows in the background.
 
+</details>
+
+
+
 You can also set a **Parent Instance** to create a deployment pipeline and use the environment strategy of your choice.
 
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
@@ -44,3 +54,4 @@ With workspace, you can control who within your team can do the following to an 
 * Promote
 * Deploy
 * Manage
+
