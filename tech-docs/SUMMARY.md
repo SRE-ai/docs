@@ -9,7 +9,7 @@
 * [GitHub integration](setup-guides/github-integration.md)
 * [Jira integration](setup-guides/jira-integration.md)
 * [Flows](setup-guides/flows/README.md)
-  * [Slack flow](setup-guides/flows/slack-flow.md)
+  * [Slack flow](setup-guides/flows/slack-integration.md)
 
 ***
 

@@ -53,7 +53,7 @@ Learn how to set up SRE.ai in Slack.
 3. Click **Add Connection**
 4. Select **Slack** as the **connection type**
 5. Name the connection **"Slack"**
-6. Paste the [OAuth token you noted earlier](slack-flow.md#configure-app-permissions)
+6. Paste the [OAuth token you noted earlier](slack-integration.md#configure-app-permissions)
 7. Click **Save**
 
 ## SRE Web App Flow Configuration
@@ -68,6 +68,6 @@ Learn how to set up SRE.ai in Slack.
 1. Set the trigger to **Promote**
 2. Add **"Post Slack Message"** as a Flow element
 3. Select **Slack** as the **Connection**
-4. Set the channel as [the private channel you previously named](slack-flow.md#slack-channel-setup)
+4. Set the channel as [the private channel you previously named](slack-integration.md#slack-channel-setup)
 5. Click **Save**
 6. Click **Activate flow**

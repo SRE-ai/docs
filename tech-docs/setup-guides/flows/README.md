@@ -1,6 +1,5 @@
 ---
 description: Learn about SRE.ai's Flows feature,
-hidden: true
 ---
 
 # Flows
