@@ -2,12 +2,17 @@
 
 * [Welcome](README.md)
   * [Getting Started](readme/quickstart.md)
-* [Setup guides](setup-guides/README.md)
-  * [Salesforce integration](setup-guides/salesforce-integration.md)
-  * [GitHub integration](setup-guides/github-integration.md)
-  * [Jira integration](setup-guides/jira-integration.md)
-  * [Flows](setup-guides/flows/README.md)
-    * [Slack integration](setup-guides/flows/slack-integration.md)
+
+## Setup guide
+
+* [Salesforce integration](setup-guide/salesforce-integration.md)
+* [GitHub integration](setup-guide/github-integration.md)
+* [Jira integration](setup-guide/jira-integration.md)
+* [Flows](setup-guide/flows/README.md)
+  * [Slack integration](setup-guide/flows/slack-integration.md)
+
+***
+
 * [Code Management](images-and-media/README.md)
   * [Instances](images-and-media/instances.md)
   * [Repostitories](images-and-media/repostitories.md)
