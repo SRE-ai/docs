@@ -13,7 +13,7 @@ Each login requires this token, and the application will stay connected until yo
 
 The "LOCAL (offline)" workspace is available by default and is a good starting point for evaluating the platform.
 
-The LOCAL workspace gives you access to all the features of Infinit for individual use, except for collaboration, which requires [creating or being invited to a workspace.](quickstart.md#setting-up-workspace)
+The LOCAL workspace gives you access to all the features of Infinit for individual use, except for collaboration, which requires [creating or being invited to a workspace.](<README (1).md#setting-up-workspace>)
 
 {% hint style="info" %}
 [Git](https://git-scm.com/downloads) must be pre-installed for all functions to work correctly.
@@ -47,8 +47,3 @@ The SRE.ai package for Salesforce is an AppExchange-managed Package. Use [the pr
 \
 After installation, assign the **SRE.ai User** permission set to SRE.ai users to grant them access to SRE.ai objects, classes, and other components.
 
-## Si
-
-Learn how to set up SRE.ai's integrations
-
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Salesforce</strong></td><td>Learn how to set up SRE.ai in your Salesforce Workspace.</td><td><a href=".gitbook/assets/Screenshot 2025-03-24 at 7.00.54 PM.png">Screenshot 2025-03-24 at 7.00.54 PM.png</a></td><td><a href="integrations/salesforce-integration.md">salesforce-integration.md</a></td></tr></tbody></table>

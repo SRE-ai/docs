@@ -1,12 +1,12 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Getting Started](quickstart.md)
-* [Integrations](integrations/README.md)
-  * [Salesforce integration](integrations/salesforce-integration.md)
-  * [GitHub integration](integrations/github-integration.md)
-  * [Jira integration](integrations/jira-integration.md)
-  * [Slack integration](integrations/slack-integration.md)
+* [Getting Started](<README (1).md>)
+* [Integrations](quickstart/integrations/README.md)
+  * [Salesforce integration](quickstart/integrations/salesforce-integration.md)
+  * [GitHub integration](quickstart/integrations/github-integration.md)
+  * [Jira integration](quickstart/integrations/jira-integration.md)
+  * [Slack integration](quickstart/integrations/slack-integration.md)
 * [Code Management](images-and-media/README.md)
   * [Instances](images-and-media/instances.md)
   * [Repostitories](images-and-media/repostitories.md)
