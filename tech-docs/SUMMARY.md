@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Getting Started](<README (1).md>)
+  * [Getting Started](readme/quickstart.md)
 * [Integrations](quickstart/integrations/README.md)
   * [Salesforce integration](quickstart/integrations/salesforce-integration.md)
   * [GitHub integration](quickstart/integrations/github-integration.md)
