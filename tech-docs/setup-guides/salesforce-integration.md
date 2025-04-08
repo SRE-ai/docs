@@ -1,8 +1,8 @@
+---
+description: Learn how to set up SRE.ai in your Salesforce Workspace.
+---
+
 # Salesforce integration
-
-## Overview
-
-Learn how to set up SRE.ai in your Salesforce Workspace.
 
 ## Install SRE managed package in Salesforce Workspace
 

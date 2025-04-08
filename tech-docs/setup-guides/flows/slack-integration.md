@@ -1,8 +1,8 @@
+---
+description: Learn how to set up SRE.ai in Slack.
+---
+
 # Slack flow
-
-## Overview
-
-Learn how to set up SRE.ai in Slack.
 
 ## **Salesforce Setup**
 
