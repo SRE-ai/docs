@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Getting Started](quickstart.md)
 
 ## Setup guides
 
+* [Getting Started](setup-guides/quickstart.md)
 * [Salesforce integration](setup-guides/salesforce-integration.md)
 * [GitHub integration](setup-guides/github-integration.md)
 * [Jira integration](setup-guides/jira-integration.md)
