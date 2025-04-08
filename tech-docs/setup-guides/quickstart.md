@@ -1,6 +1,5 @@
 ---
 description: Learn how to set up SRE.ai.
-icon: wave-square
 ---
 
 # Getting Started
