@@ -20,7 +20,7 @@ Learn how to set up SRE.ai in Slack.
 4. Click the **Build** link
 5. Click **Create New App**
 6. Select the **From Scratch** option
-7. Name your app "SRE"
+7. Name your app **"SRE"**
 8. Select your workspace
 9. Click **Create App**
 10. Add the shared image in the **Display Information Section**
@@ -38,8 +38,23 @@ Learn how to set up SRE.ai in Slack.
 
 ## Slack channel setup
 
-1. Create a private Slack channel, keep the name handy for later steps
-2. Invite the bot to your channel:
+1. Create a private Slack channel,&#x20;
 
-* Type "@SRE" in the chat
-* Accept Slack's prompt to invite the bot
+* IMPORTANT: Take note of the Slack channel's name
+
+2. Invite the bot to your channel
+   1. Type "@SRE" in the chat
+   2. Accept Slack's prompt to invite the bot
+
+## SRE Web App Configuration
+
+1. Click **Manage \[your workspace]** in the SRE web application
+2. Head to **Connections**
+3. Click **Add Connection**
+4. Select **Slack** as the **connection type**
+5. Name the connection **"Slack"**
+6. Paste the [OAuth token you noted earlier](slack-integration.md#configure-app-permissions)
+7. Click **Save**
+
+## SRE Web App Flow Configuration
+
