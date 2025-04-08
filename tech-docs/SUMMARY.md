@@ -3,7 +3,7 @@
 * [Welcome](README.md)
 * [Getting Started](quickstart.md)
 
-## Setup guide
+## Setup guides
 
 * [Salesforce integration](setup-guides/salesforce-integration.md)
 * [GitHub integration](setup-guides/github-integration.md)
