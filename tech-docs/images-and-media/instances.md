@@ -6,9 +6,7 @@ description: >-
 
 # Instances
 
-## Implementation of instances
-
-n SRE.ai, **Instances** allow you to create connections to your Salesforce environments and assign them a specific purpose, such as:
+In SRE.ai, **Instances** allow you to create connections to your Salesforce environments and assign them a specific purpose, such as:
 
 * Development
 * Code integration
