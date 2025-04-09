@@ -44,7 +44,7 @@ Automate the execution of anonymous code as part of your deployment process and 
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-## Destrcuctive changes
+## Destructive changes
 
 Track and manage destructive changes you want to make to your environment and specify whether they should be executed pre or post-deployment.
 
