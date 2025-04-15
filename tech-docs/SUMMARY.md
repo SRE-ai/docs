@@ -24,3 +24,4 @@
   * [Deploy](images-and-media/deploy.md)
   * [Release management strategies](images-and-media/release-management-strategies.md)
   * [Cron syntax](images-and-media/cron-syntax.md)
+* [Review pull requests](review-pull-requests.md)
