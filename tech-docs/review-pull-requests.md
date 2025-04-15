@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Review pull requests
 
 ## **Create a Webhook endpoint in SRE application**
