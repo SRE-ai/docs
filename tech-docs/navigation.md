@@ -10,19 +10,19 @@ The sidebar organizes core tools and workflows that map directly to this lifecyc
 
 ## **Home**
 
-The dashboard landing page. Quickly view recent activity, environment health, and relevant updates across your connected systems.
+The Home tab provides a high-level overview of recent activity, environment health, and relevant updates across your connected systems.
 
 ## **Changes**
 
 Track and manage metadata and code changes in real time.
 
-This is where developers can select metadata types, view diffs, and initiate change tracking across connected Salesforce environments.
+Use the Changes tab to view detected updates, compare metadata, and commit code. This is where you define what’s changing, when, and why before rolling it into a Collection or deployment.
 
 ## **Collections**
 
 Group multiple changes into a single unit of work.
 
-Collections are ideal for managing sprint-based development, releases, or bundles of changes that need to be tested or promoted together.
+Collections let you group changes that belong together, whether you're working on a new feature, a bug fix, or a release. Track their progress, assign them to teammates, and promote them in one go.
 
 ## **Instances**
 
@@ -34,13 +34,13 @@ Each instance corresponds to a Salesforce environment (e.g., Dev, QA, Staging) a
 
 Configure and connect Git repositories used for version control.
 
-This section enables repo management, Git strategy configuration, and source format settings (e.g., Metadata Source vs. Extended Source).
+Link your repositories, define source formats, and control Git behavior. This is the foundation of your DevOps pipeline, ensuring your environments and version control are in sync.
 
 ## **Flows**
 
 Create declarative workflows using triggers and steps.
 
-Flows automate multi-step processes, like deployments, Jira updates, or environment resets, without requiring custom scripting. Built for reusability and flexibility across teams.
+Flows let you define custom automations for your team, from triggering deployments to updating Jira. Build workflows with a few clicks and eliminate repetitive manual steps.
 
 ## **Activities**
 
@@ -52,6 +52,8 @@ Activities show who did what, when, including:&#x20;
 * Commits
 * Deployments
 * Flow executions
+
+Activities help you audit what happened, when, and by whom, bringing transparency to your entire release cycle.
 
 ## **Pipeline**
 
