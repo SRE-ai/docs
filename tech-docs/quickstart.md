@@ -32,13 +32,13 @@ To invite team members to the workspace, add their email addresses as members.
 You must have the **Manage Workspace** permission as the administrator to perform these tasks.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 To use the workspace, connect to a Salesforce environment with the SRE.ai packages installed. The Salesforce environment connected to the workspace is a remote connection for storing and synchronizing data from SRE.ai with other team members.\
 \
 Each team member must connect to the remote Salesforce environment using their credentials.
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 ### Setting up SRE.ai in the workspace
 
