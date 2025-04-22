@@ -18,11 +18,15 @@ Track and manage metadata and code changes in real time.
 
 Use the Changes tab to view detected updates, compare metadata, and commit code. This is where you define what’s changing, when, and why before rolling it into a Collection or deployment.
 
+Learn more about Changes in [SRE.ai's Changes documentation.](images-and-media/changes.md)
+
 ## **Collections**
 
 Group multiple changes into a single unit of work.
 
 Collections let you group changes that belong together, whether you're working on a new feature, a bug fix, or a release. Track their progress, assign them to teammates, and promote them in one go.
+
+Learn more about Collections in [SRE.ai's Collections documentation.](images-and-media/collections.md)
 
 ## **Instances**
 
@@ -30,17 +34,23 @@ Manage the orgs or environments connected to your repository.
 
 Each instance corresponds to a Salesforce environment (e.g., Dev, QA, Staging) and can be assigned to a branch. Use this section to spin up environments, track status, or reset configurations.
 
+Learn more about Instances in [SRE.ai's Instances documentation.](images-and-media/instances.md)
+
 ## Repositories
 
 Configure and connect Git repositories used for version control.
 
 Link your repositories, define source formats, and control Git behavior. This is the foundation of your DevOps pipeline, ensuring your environments and version control are in sync.
 
+Learn more about Repositories in [SRE.ai's Repositories documentation](images-and-media/repostitories.md).
+
 ## **Flows**
 
 Create declarative workflows using triggers and steps.
 
 Flows let you define custom automations for your team, from triggering deployments to updating Jira. Build workflows with a few clicks and eliminate repetitive manual steps.
+
+Learn more about Flows in SRE.ai's Flows documentation.
 
 ## **Activities**
 
