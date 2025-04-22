@@ -2,6 +2,7 @@
 
 * [Welcome](README.md)
 * [Getting Started](quickstart.md)
+* [Navigation](navigation.md)
 * [Integrations](integrations/README.md)
   * [Salesforce integration](integrations/salesforce-integration.md)
   * [GitHub integration](integrations/github-integration.md)
