@@ -16,11 +16,11 @@ Flows automate DevOps workflows and manage them through a simple, declarative ap
 
 Flows cover deploying new software, tracking changes, and coordinating team communications.
 
-## **Trigger-Based Automation**
+## **Trigger-Based automation**
 
 Set up triggers to automate DevOps workflows based on specific criteria. Flows allows you to initiate processes exactly when needed, whether it's a code commit, a change in a Jira issue, or a scheduled time.
 
-## Comprehensive Element Support
+## Comprehensive element support
 
 Flows come packed with a robust set of supported elements, allowing you to customize your workflows to meet your specific needs.
 
@@ -36,19 +36,19 @@ Here are some functions you can execute with flows:
 * Maintain a pool of scratch-orgs with up-to-date packages, data, and configurations
 * Enhance team communication by posting messages to Slack channels directly from your workflows
 
-## **Declarative Approach**
+## **Declarative approach**
 
 Flows take a declarative approach. With Flows, you define what you want to achieve without worrying about the technical details of how it gets done.
 
 Flows make it accessible for users of all technical backgrounds and reduce the learning curve significantly.
 
-## **Multi-Step Process Orchestration**
+## **Multi-Step process orchestration**
 
 Orchestrate complex workflows involving multiple steps and dependencies.
 
 Flows ensure steps execute in the correct order. You define the right conditions and criteria to keep the process smooth and error-free.
 
-## **Getting Started with Flows**
+## **Getting started with Flows**
 
 Get started with Flows by:
 
