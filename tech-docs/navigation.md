@@ -1,6 +1,6 @@
 # Navigation
 
-<figure><img src=".gitbook/assets/The Sidebar (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/The Sidebar.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## **Overview**
 

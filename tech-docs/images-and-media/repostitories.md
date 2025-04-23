@@ -4,6 +4,8 @@ description: Learn how to connect and manage Git-based repositories in SRE.ai.
 
 # Repostitories
 
+<figure><img src="../.gitbook/assets/Repositories.png" alt="" width="375"><figcaption></figcaption></figure>
+
 With repositories, you can connect to any source code repository that uses Git.
 
 To get started, point the remote path to the desired repository. From there, you can perform various [Git operations](https://git-scm.com/docs) within the application interface.

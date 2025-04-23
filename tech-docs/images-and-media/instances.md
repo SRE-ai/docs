@@ -6,6 +6,8 @@ description: >-
 
 # Instances
 
+<figure><img src="../.gitbook/assets/Instances.png" alt="" width="375"><figcaption></figcaption></figure>
+
 In SRE.ai, **Instances** allow you to create connections to your Salesforce environments and assign them a specific purpose, such as:
 
 * Development
