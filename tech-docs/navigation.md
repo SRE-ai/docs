@@ -1,3 +1,7 @@
+---
+icon: computer-mouse-scrollwheel
+---
+
 # Navigation
 
 <figure><img src=".gitbook/assets/The Sidebar.png" alt="" width="375"><figcaption></figcaption></figure>

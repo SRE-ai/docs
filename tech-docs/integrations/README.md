@@ -1,5 +1,6 @@
 ---
 description: Learn about SRE.ai's integrations
+icon: waves-sine
 ---
 
 # Integrations

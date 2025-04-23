@@ -1,5 +1,6 @@
 ---
 description: Learn about SRE.ai's Flows feature
+icon: code-compare
 ---
 
 # Flows

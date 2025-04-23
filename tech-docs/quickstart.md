@@ -1,5 +1,6 @@
 ---
 description: Learn how to set up SRE.ai.
+icon: flag-checkered
 ---
 
 # Getting Started
