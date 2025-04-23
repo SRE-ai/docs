@@ -1,12 +1,14 @@
 ---
-description: Learn about SRE.ai's Flows feature,
+description: Learn about SRE.ai's Flows feature
 ---
 
 # Flows
 
 <figure><img src="../.gitbook/assets/Flows.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Flows empower you to orchestrate complex, multi-step processes seamlessly. Flows integrate various applications and trigger criteria to streamline operations.
+Flows empower you to orchestrate complex, multi-step processes seamlessly.&#x20;
+
+Flows integrate various applications and trigger criteria to streamline operations.
 
 ## **Why Flows?**
 
