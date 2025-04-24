@@ -50,6 +50,8 @@ Webhook triggers feature two customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 2.47.17 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
+### Webhook trigger supported applications
+
 The Webhooks trigger can connect with three apps:
 
 * Jira
@@ -57,3 +59,23 @@ The Webhooks trigger can connect with three apps:
 * Bitbucket
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 2.49.46 PM.png" alt="" width="235"><figcaption></figcaption></figure>
+
+## Commit trigger customization
+
+Commit triggers feature three customizable parameters:
+
+* **Description**
+* **Conditions**
+* **Local running toggle**
+
+## Promote trigger customization
+
+Promote triggers feature three customizable parameters:
+
+* **Description**
+* **Conditions**
+* **Local running toggle**
+
+## Deployment trigger customization
+
+Deployment triggers feature one customizable parameter, a **Description.**
