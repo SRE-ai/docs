@@ -24,7 +24,7 @@ Click any Trigger in a Flow to customize the Trigger.
 
 <figure><img src="../../.gitbook/assets/Trigger Highlight.png" alt="" width="375"><figcaption></figcaption></figure>
 
-SRE.ai offers six different Triggers.
+SRE.ai offers six different Triggers:
 
 * Manual&#x20;
 * Schedule

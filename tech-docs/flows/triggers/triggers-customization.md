@@ -1,19 +1,19 @@
 ---
-description: Learn about the customizable parameters in each trigger
+description: Learn about the customizable parameters in each Trigger
 ---
 
 # Triggers customization
 
 ## Overview
 
-SRE.ai offers six different Triggers.
+SRE.ai offers six different Triggers:
 
-* Manual&#x20;
-* Schedule
-* Webhook
-* Commit
-* Promote
-* Deployment
+* [Manual](triggers-customization.md#manual-trigger-customization)&#x20;
+* [Schedule](triggers-customization.md#schedule-trigger-customization)
+* [Webhook](triggers-customization.md#webhook-trigger-customization)
+* [Commit](triggers-customization.md#commit-trigger-customization)
+* [Promote](triggers-customization.md#promote-trigger-customization)
+* [Deployment](triggers-customization.md#deployment-trigger-customization)
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 1.43.59 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -23,15 +23,15 @@ Read below to learn about the parameters that can be customized within each Trig
 
 A click activates a manual trigger.
 
-Manual triggers only feature one customizable parameter, a **Description.**
+The manual trigger features one customizable parameter, a **Description.**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 2.38.30 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Schedule trigger customization
 
-Schedule triggers are scheduled with cron syntax
+The Schedule trigger is scheduled with cron syntax
 
-Schedule triggers feature three customizable parameters:
+The Schedule trigger features three customizable parameters:
 
 * **Description**
 * **Cron expression**
@@ -43,7 +43,7 @@ Learn more about cron syntax in [SRE.ai's cron syntax documentation](../../image
 
 ## Webhook trigger customization
 
-Webhook triggers feature two customizable parameters:
+The Webhook trigger features two customizable parameters:
 
 * **Description**
 * **Connected application**
@@ -62,7 +62,7 @@ The Webhooks trigger can connect with three apps:
 
 ## Commit trigger customization
 
-Commit triggers feature three customizable parameters:
+The Commit trigger features three customizable parameters:
 
 * **Description**
 * **Conditions**
@@ -71,6 +71,8 @@ Commit triggers feature three customizable parameters:
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 4.29.26 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 By default, Commit Triggers are activated by the stated commit
+
+### Conditions customization
 
 Use the Conditions parameter to arrange conditions for the commit.&#x20;
 
@@ -84,8 +86,6 @@ A condition can be defined as being a value from one of six fields:
 * Instance
 * Package directory
 * Repository
-
-### Conditions customization
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 4.37.07 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -111,6 +111,6 @@ Conditions for Promote triggers are customized like [conditions for Commit trigg
 
 ## Deployment trigger customization
 
-Deployment triggers feature one customizable parameter, a **Description.**
+The deployment trigger features one customizable parameter, a **Description.**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 4.41.40 PM.png" alt="" width="375"><figcaption></figcaption></figure>
