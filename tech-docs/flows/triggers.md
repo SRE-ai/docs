@@ -8,13 +8,23 @@ description: Learn about Triggers for Flows
 
 Triggers are the entry points to a Flow in SRE.ai.&#x20;
 
-Each Trigger listens for a specific event, such as a pull request opening, a commit being merged, or a manual user action, and initiates the Flow once its conditions are met.
+Each Trigger listens for a specific event, such as:
+
+* A pull request opening
+* A commit being merged
+* A manual user action&#x20;
+
+Triggers initiate Flows once their specific event occurs.
+
+Triggers help you respond automatically to DevOps activity without polling, scripts, or brittle automations.
 
 ## How Triggers work in SRE.ai:
 
 * Add Triggers from the Flow Builder panel
-* Choose from available trigger types (e.g., "When a PR is opened")
-* Customize conditions using the declarative UI (e.g., branch name = main)
+* Choose from available trigger types&#x20;
+  * &#x20;For example, "When a PR is opened"
+* Customize conditions using the declarative UI
+  * For example, branch name = main
 * Combine multiple Triggers for broader automation control\
 
 
@@ -25,7 +35,3 @@ Each Trigger listens for a specific event, such as a pull request opening, a com
 * Branch created
 * Environment reset
 * Manual trigger
-
-{% hint style="info" %}
-Triggers help you respond automatically to real DevOps activity without polling, scripts, or brittle automations.
-{% endhint %}
