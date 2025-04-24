@@ -20,10 +20,6 @@ Triggers help you respond automatically to DevOps activity without polling, scri
 
 ## Available Triggers
 
-Click any Trigger in a Flow to customize the Trigger.
-
-<figure><img src="../../.gitbook/assets/Trigger Highlight.png" alt="" width="375"><figcaption></figcaption></figure>
-
 SRE.ai offers six different Triggers:
 
 * Manual&#x20;
@@ -37,6 +33,10 @@ SRE.ai offers six different Triggers:
 
 Each Trigger features its own customizable parameters.
 
-Read SRE.ai's Triggers customization documentation to learn more.&#x20;
+Read [SRE.ai's Triggers customization documentation](triggers-customization.md) to learn more.&#x20;
 
 ## How Triggers work in SRE.ai
+
+Click any Trigger in a Flow to customize the Trigger.
+
+<figure><img src="../../.gitbook/assets/Trigger Highlight.png" alt="" width="375"><figcaption></figcaption></figure>
