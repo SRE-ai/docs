@@ -23,7 +23,7 @@ Set up triggers to automate DevOps workflows based on specific criteria.&#x20;
 
 Flows allows you to initiate processes exactly when needed, whether it's a code commit, a change in a Jira issue, or a scheduled time.
 
-Learn more about Triggers in[ SRE.ai's Triggers documentation](triggers.md).
+Learn more about Triggers in[ SRE.ai's Triggers documentation](triggers/).
 
 ### Comprehensive element support
 
