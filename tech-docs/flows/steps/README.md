@@ -12,7 +12,7 @@ You can string multiple Steps together to create powerful, rule-based automation
 
 ## Available Steps
 
-SRE.ai offers 18 Step types:
+SRE.ai offers eighteen Step types:
 
 * Create Change
 * Create Collection
