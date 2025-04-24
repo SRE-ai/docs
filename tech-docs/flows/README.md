@@ -19,7 +19,11 @@ Flows cover deploying new software, tracking changes, and coordinating team comm
 
 ### **Trigger-Based automation**
 
-Set up triggers to automate DevOps workflows based on specific criteria. Flows allows you to initiate processes exactly when needed, whether it's a code commit, a change in a Jira issue, or a scheduled time.
+Set up triggers to automate DevOps workflows based on specific criteria.&#x20;
+
+Flows allows you to initiate processes exactly when needed, whether it's a code commit, a change in a Jira issue, or a scheduled time.
+
+Learn more about Triggers in[ SRE.ai's Triggers documentation](triggers.md).
 
 ### Comprehensive element support
 

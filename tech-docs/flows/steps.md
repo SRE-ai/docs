@@ -10,19 +10,32 @@ Steps are the actions that your Flow performs after being triggered.&#x20;
 
 You can string multiple Steps together to create powerful, rule-based automations across your DevOps pipeline.
 
-## How Steps work in SRE.ai:
+## Available Steps
 
-* Drag and drop Steps in the Flow builder
-* Configure each Step with field-level detail&#x20;
-  * For example:
-    * Which environment to promote to&#x20;
-    * What text to send to Slack
-* Use built-in templates for fast setup
+SRE.ai offers 18 Step types:
 
-## Example Steps:
+* Create Change
+* Create Collection
+* Add to Collection
+* Remove from Collection
+* Import Changes
+* Commit
+* Promote
+* Deploy
+* Install Package
+* Create Package Version
+* Create Scratch Org
+* Update Jira Issue
+* Create Pull Request
+* Review Pull Request
+* Pull Request Exception
+* Summarize Change
+* List Components
+* Post a Slack Message
 
-* Promote Collection to an Environment
-* Update a Jira Issue
-* Post a message to Slack
-* Assign uncommitted metadata to a PR
-* Reset a Salesforce Sandbox
+Each Step features its own customizable parameters.
+
+Read SRE.ai's Steps customization documentation to learn more.&#x20;
+
+## How Steps work in SRE.ai
+

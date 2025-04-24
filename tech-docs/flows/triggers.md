@@ -4,7 +4,7 @@ description: Learn about Triggers for Flows
 
 # Triggers
 
-## What are Triggers?
+What are Triggers?
 
 Triggers are the entry points to a Flow in SRE.ai.&#x20;
 
@@ -18,20 +18,25 @@ Triggers initiate Flows once their specific event occurs.
 
 Triggers help you respond automatically to DevOps activity without polling, scripts, or brittle automations.
 
-## How Triggers work in SRE.ai:
+## Available Triggers
 
-* Add Triggers from the Flow Builder panel
-* Choose from available trigger types&#x20;
-  * &#x20;For example, "When a PR is opened"
-* Customize conditions using the declarative UI
-  * For example, branch name = main
-* Combine multiple Triggers for broader automation control\
+Click any Trigger in a Flow to customize the Trigger.
 
+<figure><img src="../.gitbook/assets/Trigger Highlight.png" alt="" width="375"><figcaption></figcaption></figure>
 
-## Available Trigger types include:
+SRE.ai offers six different Triggers.
 
-* PR opened
-* Collection promoted
-* Branch created
-* Environment reset
-* Manual trigger
+* Manual&#x20;
+* Schedule
+* Webhook
+* Commit
+* Promote
+* Deployment
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-24 at 1.43.59 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Each Trigger features its own customizable parameters.
+
+Read SRE.ai's Trigger customization documentation to learn more.&#x20;
+
+## How Triggers work in SRE.ai
