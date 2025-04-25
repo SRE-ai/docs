@@ -138,3 +138,27 @@ The Conflict resolution parameter offers four options:
 * Resolve manually
 * Favor source branch
 * Favor target branch
+
+## Deploy step customization
+
+The Deploy step features seven customizable parameters:
+
+* **Name**
+* **Description**
+* **Select Target Instance (**_**optional**_**)**
+* **Type**
+* **Select Collection (**_**required**_**)**
+* **Select Source (**_**required**_**)**
+* **Check only** option - run a validation check without making any changes to the target org
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 6.19.19 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+The elements within the **Select Target Instance**, **Select Collection**, and **Select Source** parameters are impacted by the Salesforce environment that you are connected to.
+
+## Install Package step customization
+
+The Install Package step features nine customizable parameters:
+
+* **Name**
+* **Description**
+* **Select Target Instance (**_**optional**_**)**
