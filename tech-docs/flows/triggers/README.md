@@ -4,7 +4,7 @@ description: Learn about Triggers for Flows
 
 # Triggers
 
-What are Triggers?
+## What are Triggers?
 
 Triggers are the entry points to a Flow in SRE.ai.&#x20;
 

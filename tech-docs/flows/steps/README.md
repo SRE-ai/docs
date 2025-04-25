@@ -4,7 +4,7 @@ description: Learn about Steps for Flows
 
 # Steps
 
-What are Steps?
+## What are Steps?
 
 Steps are the actions that your Flow performs after being triggered.&#x20;
 
