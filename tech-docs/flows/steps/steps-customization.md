@@ -4,7 +4,7 @@ description: Learn about the customizable parameters in each Step
 
 # Steps customization
 
-Overview
+## Overview
 
 SRE.ai offers eighteen Step types:
 
