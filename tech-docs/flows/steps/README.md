@@ -4,7 +4,7 @@ description: Learn about Steps for Flows
 
 # Steps
 
-## What are Steps?
+What are Steps?
 
 Steps are the actions that your Flow performs after being triggered.&#x20;
 
@@ -33,9 +33,18 @@ SRE.ai offers eighteen Step types:
 * List Components
 * Post a Slack Message
 
-Each Step features its own customizable parameters.
-
-Read SRE.ai's Steps customization documentation to learn more.&#x20;
-
 ## How Steps work in SRE.ai
 
+In the Flow Builder, select the Edit Flows icon to add or delete Steps.
+
+<figure><img src="../../.gitbook/assets/EditStepHighlight.png" alt=""><figcaption></figcaption></figure>
+
+Click any Step in a Flow to open the View Step panel
+
+<figure><img src="../../.gitbook/assets/EditStepHighlight2.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Click the blue pen in the top right of the View Step panel to edit the Step's parameters.
+
+<figure><img src="../../.gitbook/assets/ViewStepPanel.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Learn more about the customizable parameters for each Step by reading[ SRE.ai's Steps customization documentation](steps-customization.md).

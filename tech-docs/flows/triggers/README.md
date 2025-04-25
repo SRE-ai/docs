@@ -31,12 +31,16 @@ SRE.ai offers six different Triggers:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 1.43.59 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Each Trigger features its own customizable parameters.
-
-Read [SRE.ai's Triggers customization documentation](triggers-customization.md) to learn more.&#x20;
-
 ## How Triggers work in SRE.ai
 
-Click any Trigger in a Flow to customize the Trigger.
+Click on a Trigger in the Flow builder to open the View Trigger panel.
 
 <figure><img src="../../.gitbook/assets/Trigger Highlight.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Click the blue pen in the top right of the View Trigger panel to edit the Trigger type.
+
+<figure><img src="../../.gitbook/assets/EditTriggerHighlight.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Each Trigger features its own customizable parameters.
+
+Learn more about the customizable parameters for each Trigger by reading [SRE.ai's Triggers customization documentation](triggers-customization.md).
