@@ -65,11 +65,13 @@ Here are some functions you can execute with flows:
 
 By default, the Flows page only displays Active Flows.
 
+Click "**All**" to view every Flow in your system.
+
 Click on an existing Flow to view or edit the Flow.
 
 ### Create new Flow
 
-Click New to name and create a new Flow.
+Click the **blue "New" button** to name and create a new Flow.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-25 at 3.55.22 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
