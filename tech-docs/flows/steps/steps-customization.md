@@ -35,7 +35,7 @@ The Create Change step features three customizable parameters:
 
 * **Name**
 * **Description**
-* **Source Instance (required)**
+* **Source Instance (**_**required**_**)**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 5.02.01 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -47,7 +47,7 @@ The Create Change step features three customizable parameters:
 
 * **Name**
 * **Description**
-* **Source Instance (required)**
+* **Source Instance (**_**required**_**)**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 5.07.30 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -77,8 +77,8 @@ The Import Changes step features six customizable parameters:
 
 * **Name**
 * **Description**
-* **Select Change (optional)**
-* **Select Source Instance (optional)**
+* **Select Change (**_**optional**_**)**
+* **Select Source Instance (**_**optional**_**)**
 * **Changes filter**
 * **Time range filter**
 
@@ -106,9 +106,9 @@ The Commit step features five customizable parameters:
 
 * **Name**
 * **Description**
-* **Select change (optional)**
-* **Select Source Instance (optional)**
-* **Select Repository (optional)**
+* **Select change (**_**optional**_**)**
+* **Select Source Instance (**_**optional**_**)**
+* **Select Repository (**_**optional**_**)**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 5.29.06 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -120,9 +120,9 @@ The Promote step features nine customizable parameters:
 
 * **Name**
 * **Description**
-* **Select Target Instance (required)**
+* **Select Target Instance (**_**required**_**)**
 * **Type**
-* **Select Change (optional)**
+* **Select Change (**_**optional**_**)**
 * **Conflict resolution**
 * **Check only** option - run a validation check without making any changes to the target org
 * **Close branch** option - delete the branch after the merge is successful
@@ -162,3 +162,40 @@ The Install Package step features nine customizable parameters:
 * **Name**
 * **Description**
 * **Select Target Instance (**_**optional**_**)**
+* **Select DevHub Instance (**_**required**_**)**
+* **Package Options**
+* **Installation key**
+* **Package access type**
+* **Upgrade tupe**
+* **Apex compile option**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 6.21.28 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+The elements within the **Select Target Instance** and **Select DevHub Instance** parameters are impacted by the Salesforce environment that you are connected to.
+
+## Create Package step customization
+
+The Create Package step features five main customizable parameters:
+
+* **Name**
+* **Description**
+* **Select DevHub Instance (**_**required**_**)**
+* **Source branch (**_**required**_**)**
+* **Intsallation key**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 7.09.26 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+Create Package step features ten customizable parameters that are hidden by default:
+
+* **Definition file**
+* **Tag**
+* **Skip Validation** option - don't include second generation managed package (2GP) ancestors
+* **Code Coverage** option - calculate and store the code coverage percentage by running the packaged Apex tests included in this package version
+* **Skip Ancestor Check** option - overrides ancestry requirements, which allows you to specify a packaged ancestor that isn't the highest released package version
+* **Post Install Script**
+* **Uninstall Script**
+* **Post Install Url**
+* **Release Notes Url**
+* **Language**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 7.10.20 PM.png" alt="" width="375"><figcaption></figcaption></figure>
