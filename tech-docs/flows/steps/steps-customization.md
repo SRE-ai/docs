@@ -77,14 +77,14 @@ The Import Changes step features six customizable parameters:
 
 * **Name**
 * **Description**
-* **Select change (optional)**
+* **Select Change (optional)**
 * **Select Source Instance (optional)**
 * **Changes filter**
 * **Time range filter**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 5.12.58 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-The elements within the **Select change** and **Select Source Instance** parameters are impacted by the Salesforce environment that you are connected to.
+The elements within the **Select Change** and **Select Source Instance** parameters are impacted by the Salesforce environment that you are connected to.
 
 The **Changes filter** parameter features two options:
 
@@ -100,3 +100,41 @@ The **Time range filter** parameter features six options:
 * **This month**
 * **Last 90 days**
 
+## Commit step customization
+
+The Commit step features five customizable parameters:
+
+* **Name**
+* **Description**
+* **Select change (optional)**
+* **Select Source Instance (optional)**
+* **Select Repository (optional)**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 5.29.06 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+The elements within the **Select change,** **Select Source Instance,** and **Select Repository** parameters are impacted by the Salesforce environment that you are connected to.
+
+## Promote step customization
+
+The Promote step features nine customizable parameters:
+
+* **Name**
+* **Description**
+* **Select Target Instance (required)**
+* **Type**
+* **Select Change (optional)**
+* **Conflict resolution**
+* **Check only** option - run a validation check without making any changes to the target org
+* **Close branch** option - delete the branch after the merge is successful
+* **Back promote** option - check when promoting down in the release chain
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 6.05.48 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+The elements within the **Select Target Instance** and **Select Change** parameters are impacted by the Salesforce environment that you are connected to.
+
+The Conflict resolution parameter offers four options:
+
+* Auto-resolve (when possible)
+* Resolve manually
+* Favor source branch
+* Favor target branch
