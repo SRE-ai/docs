@@ -132,7 +132,7 @@ The Promote step features nine customizable parameters:
 
 The elements within the **Select Target Instance** and **Select Change** parameters are impacted by the Salesforce environment that you are connected to.
 
-The Conflict resolution parameter offers four options:
+The **Conflict resolution** parameter offers four options:
 
 * Auto-resolve (when possible)
 * Resolve manually
@@ -173,7 +173,7 @@ The Install Package step features nine customizable parameters:
 
 The elements within the **Select Target Instance** and **Select DevHub Instance** parameters are impacted by the Salesforce environment that you are connected to.
 
-## Create Package step customization
+## Create Package Version step customization
 
 The Create Package step features five main customizable parameters:
 
@@ -181,11 +181,13 @@ The Create Package step features five main customizable parameters:
 * **Description**
 * **Select DevHub Instance (**_**required**_**)**
 * **Source branch (**_**required**_**)**
-* **Intsallation key**
+* **Installation key**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 7.09.26 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Create Package step features ten customizable parameters that are hidden by default:
+The elements within the **Select DevHub Instance** parameter are impacted by the Salesforce environment that you are connected to.
+
+The Create Package Version step also features ten customizable parameters that are hidden by default:
 
 * **Definition file**
 * **Tag**
@@ -199,3 +201,41 @@ Create Package step features ten customizable parameters that are hidden by defa
 * **Language**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 7.10.20 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+## Create Scratch Org step customization
+
+The Create Scratch Org step features five main customizable parameters:
+
+* **Name**
+* **Description**
+* **Select DevHub Instance (**_**required**_**)**
+* **Duration days**
+* **Edition**
+* **Options**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 7.22.31 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+The elements within the **Select DevHub Instance** parameter are impacted by the Salesforce environment that you are connected to.
+
+The **Edition** parameter offers eight options:
+
+* Developer
+* Enterprise
+* Group
+* Professional
+* Partner Developer
+* Partner Enterprise
+* Partner Group
+* Partner Professional
+
+The Create Scratch Org  step also features six customizable parameters that are hidden by default:
+
+* **Org Name**
+* **Description**
+* **Release**&#x20;
+* **No Ancestors** option - don't include second generation managed package (2GP) ancestors
+* **No Namespace** option - create the scratch org with no namespace, even if the DevHub has a namespace
+* **No Source Tracking** option - disables source tracking in the new scratch org
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 7.43.43 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
