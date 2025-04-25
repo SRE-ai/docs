@@ -8,17 +8,17 @@ description: Learn about the customizable parameters in each Step
 
 SRE.ai offers eighteen Step types:
 
-* Create Change
-* Create Collection
-* Add to Collection
-* Remove from Collection
-* Import Changes
-* Commit
-* Promote
-* Deploy
-* Install Package
-* Create Package Version
-* Create Scratch Org
+* [Create Change](steps-customization.md#create-change-step-customization)
+* [Create Collection](steps-customization.md#create-collection-step-customization)
+* [Add to Collection](steps-customization.md#add-collection-step-customization)
+* [Remove from Collection](steps-customization.md#remove-from-collection-step-customization)
+* [Import Changes](steps-customization.md#import-changes-step-customization)
+* [Commit](steps-customization.md#commit-step-customization)
+* [Promote](steps-customization.md#promote-step-customization)
+* [Deploy](steps-customization.md#deploy-step-customization)
+* [Install Package](steps-customization.md#install-package-step-customization)
+* [Create Package Version](steps-customization.md#create-package-version-step-customization)
+* [Create Scratch Org](steps-customization.md#create-scratch-org-step-customization)
 * Update Jira Issue
 * Create Pull Request
 * Review Pull Request
@@ -53,9 +53,9 @@ The Create Change step features three customizable parameters:
 
 The Source Instances that are available depend on the Salesforce environment that you are connected to.
 
-## Add Collection step customization
+## Add to Collection step customization
 
-The Add Collection step features two customizable parameters:
+The Add to Collection step features two customizable parameters:
 
 * **Name**
 * **Description**
