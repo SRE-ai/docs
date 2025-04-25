@@ -35,7 +35,7 @@ With Flows, you define what you want to achieve without worrying about the techn
 
 Flows make it accessible for users of all technical backgrounds and reduce the learning curve significantly.
 
-### **Step orchestration**
+### **Steps orchestration**
 
 Flows lets you orchestrate complex workflows involving multiple steps and dependencies.
 
