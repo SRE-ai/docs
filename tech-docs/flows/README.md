@@ -35,27 +35,30 @@ With Flows, you define what you want to achieve without worrying about the techn
 
 Flows make it accessible for users of all technical backgrounds and reduce the learning curve significantly.
 
-### **Multi-Step process orchestration**
+### **Step orchestration**
 
 Flows lets you orchestrate complex workflows involving multiple steps and dependencies.
 
-Flows ensure steps execute in the correct order. You define the right conditions and criteria to keep the process smooth and error-free.
+Flows ensure Steps execute in the correct order.&#x20;
 
-### Comprehensive element support
+You define the right conditions and criteria to keep the process smooth and error-free.
 
-Flows come packed with a robust set of supported elements, allowing you to customize your workflows to meet your specific needs.
+Learn more about Steps in [SRE.ai's Steps documentation](steps/).
 
-Think of elements as building blocks, each supporting a particular step or function.
+### Comprehensive workflow support
 
-Here are some functions you can execute with flows:
+Combining Triggers and Steps allows you to customize your workflows to meet your specific needs.
 
-* Create a pull request post a commit activity
+Here are some functions you can execute with combinations of Triggers and Steps:
+
 * Promote changes when a pull request is approved
 * Automatically update a Jira issue when you promote a change to an environment.
 * Enable continuous integration and continuous deployment
 * Create and install package versions based on git operations
 * Maintain a pool of scratch-orgs with up-to-date packages, data, and configurations
 * Enhance team communication by posting messages to Slack channels directly from your workflows
+
+Learn more about example Flows by reading [SRE.AI's Flows Cookbook documentation](cookbook.md).
 
 ## **Getting started with Flows**
 
