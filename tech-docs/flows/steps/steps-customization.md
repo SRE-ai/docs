@@ -212,6 +212,11 @@ The Create Scratch Org step features five main customizable parameters:
 * **Description**
 * **Select DevHub Instance (**_**required**_**)**
 * **Duration days**
+
+{% hint style="info" %}
+**NOTE:** The default value for **Duration days** is 7. The upper limit is 30.
+{% endhint %}
+
 * **Edition**
 * **Options**
 
@@ -244,4 +249,67 @@ The Create Scratch Org  step also features six customizable parameters that are 
 * **No Source Tracking** option - disables source tracking in the new scratch org
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 7.43.43 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+## Update Jira Issue step customization
+
+The Update Jira Issue step features three main customizable parameters:
+
+* **Name**
+* **Description**
+* **Select Connection (required)**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 10.32.46 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+## Create Pull Request step customization
+
+The Create Pull Request step features four main customizable parameters:
+
+* **Name**
+* **Description**
+* **Select Connection (required)**
+* **Destination branch**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 10.35.55 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+## Review Pull Request step customization
+
+The Review Pull Request step features seven main customizable parameters:
+
+* **Name**
+* **Description**
+* **Select Connection (required)**
+* **Destination branch**
+* **Complexity Threshold**
+* **AI Model**
+* **Additional Instructions**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 10.37.59 AM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+### AI Model options
+
+The AI Model parameter offers six options:
+
+* SRE.ai Salesforce 1.0
+* Claude 3.5 Sonnet
+* Gemini 2.0 Flash
+* GPT 4o
+* o1
+* o3-mini
+
+
+
+## Pull Request Exception step customization
+
+The Pull Request Exception step features eight main customizable parameters:
+
+* **Name**
+* **Description**
+* **Select Connection (required)**
+* **Destination branch**
+* **Pull Request Label**
+* **Auto Approve** toggle
+* **Criteria**
+* **Types**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 11.02.22 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
