@@ -187,6 +187,8 @@ The Create Package step features five main customizable parameters:
 
 The elements within the **Select DevHub Instance** parameter are impacted by the Salesforce environment that you are connected to.
 
+### Hidden parameters
+
 The Create Package Version step also features ten customizable parameters that are hidden by default:
 
 * **Definition file**
@@ -217,6 +219,8 @@ The Create Scratch Org step features five main customizable parameters:
 
 The elements within the **Select DevHub Instance** parameter are impacted by the Salesforce environment that you are connected to.
 
+### Edition parameter options
+
 The **Edition** parameter offers eight options:
 
 * Developer
@@ -227,6 +231,8 @@ The **Edition** parameter offers eight options:
 * Partner Enterprise
 * Partner Group
 * Partner Professional
+
+### Hidden parameters
 
 The Create Scratch Org  step also features six customizable parameters that are hidden by default:
 
