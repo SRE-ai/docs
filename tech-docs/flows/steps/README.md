@@ -35,9 +35,13 @@ SRE.ai offers eighteen Step types:
 
 ## How Steps work in SRE.ai
 
+### Adding or deleting Steps
+
 In the Flow Builder, select the Edit Flows icon to add or delete Steps.
 
 <figure><img src="../../.gitbook/assets/EditStepHighlight.png" alt=""><figcaption></figcaption></figure>
+
+### Editing exisiting Steps
 
 Click any Step in a Flow to open the View Step panel
 
@@ -46,5 +50,7 @@ Click any Step in a Flow to open the View Step panel
 Click the blue pen in the top right of the View Step panel to edit the Step's parameters.
 
 <figure><img src="../../.gitbook/assets/ViewStepPanel.png" alt="" width="375"><figcaption></figcaption></figure>
+
+### Customization
 
 Learn more about the customizable parameters for each Step by reading[ SRE.ai's Steps customization documentation](steps-customization.md).
