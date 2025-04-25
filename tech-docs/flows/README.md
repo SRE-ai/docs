@@ -5,7 +5,7 @@ icon: code-compare
 
 # Flows
 
-<figure><img src="../.gitbook/assets/Flows.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/SlightAcmeEdit.png" alt=""><figcaption></figcaption></figure>
 
 Flows empower you to orchestrate complex, multi-step processes seamlessly.&#x20;
 
