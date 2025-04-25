@@ -7,23 +7,39 @@ icon: code-compare
 
 <figure><img src="../.gitbook/assets/SlightAcmeEdit.png" alt=""><figcaption></figcaption></figure>
 
+## Overview
+
 Flows empower you to orchestrate complex, multi-step processes seamlessly.&#x20;
 
 Flows integrate various applications and trigger criteria to streamline operations.
 
-## **Why Flows?**
+## **Features**
 
-Flows automate DevOps workflows and manage them through a simple, declarative approach.
+### **Triggers for automation**
 
-Flows cover deploying new software, tracking changes, and coordinating team communications.
+Flows features Triggers to automate DevOps workflows based on specific criteria.&#x20;
 
-### **Trigger-Based automation**
+Triggers allow you to initiate processes exactly when needed, whether it's:
 
-Set up triggers to automate DevOps workflows based on specific criteria.&#x20;
-
-Flows allows you to initiate processes exactly when needed, whether it's a code commit, a change in a Jira issue, or a scheduled time.
+* After a commit,&#x20;
+* After a change in a Jira issue
+* During a scheduled time.
 
 Learn more about Triggers in[ SRE.ai's Triggers documentation](triggers/).
+
+### **Declarative approach**
+
+Flows take a declarative approach.&#x20;
+
+With Flows, you define what you want to achieve without worrying about the technical details of how it gets done.
+
+Flows make it accessible for users of all technical backgrounds and reduce the learning curve significantly.
+
+### **Multi-Step process orchestration**
+
+Flows lets you orchestrate complex workflows involving multiple steps and dependencies.
+
+Flows ensure steps execute in the correct order. You define the right conditions and criteria to keep the process smooth and error-free.
 
 ### Comprehensive element support
 
@@ -41,19 +57,23 @@ Here are some functions you can execute with flows:
 * Maintain a pool of scratch-orgs with up-to-date packages, data, and configurations
 * Enhance team communication by posting messages to Slack channels directly from your workflows
 
-### **Declarative approach**
-
-Flows take a declarative approach. With Flows, you define what you want to achieve without worrying about the technical details of how it gets done.
-
-Flows make it accessible for users of all technical backgrounds and reduce the learning curve significantly.
-
-### **Multi-Step process orchestration**
-
-Orchestrate complex workflows involving multiple steps and dependencies.
-
-Flows ensure steps execute in the correct order. You define the right conditions and criteria to keep the process smooth and error-free.
-
 ## **Getting started with Flows**
+
+### **Main page**
+
+<figure><img src="../.gitbook/assets/FlowsLanding.png" alt="" width="375"><figcaption></figcaption></figure>
+
+By default, the Flows page only displays Active Flows.
+
+Click on an existing Flow to view or edit the Flow.
+
+### Create new Flow
+
+Click New to name and create a new Flow.
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-25 at 3.55.22 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+
 
 Get started with Flows by:
 
