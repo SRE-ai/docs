@@ -4,7 +4,7 @@ description: Learn about the customizable parameters in each Step
 
 # Steps customization
 
-## Overview
+Overview
 
 SRE.ai offers eighteen Step types:
 
@@ -19,13 +19,13 @@ SRE.ai offers eighteen Step types:
 * [Install Package](steps-customization.md#install-package-step-customization)
 * [Create Package Version](steps-customization.md#create-package-version-step-customization)
 * [Create Scratch Org](steps-customization.md#create-scratch-org-step-customization)
-* Update Jira Issue
-* Create Pull Request
-* Review Pull Request
-* Pull Request Exception
-* Summarize Change
-* List Components
-* Post a Slack Message
+* [Update Jira Issue](steps-customization.md#update-jira-issue-step-customization)
+* [Create Pull Request](steps-customization.md#create-pull-request-step-customization)
+* [Review Pull Request](steps-customization.md#review-pull-request-step-customization)
+* [Pull Request Exception](steps-customization.md#pull-request-exception-step-customization)
+* [Summarize Change](steps-customization.md#summarize-change-step-customization)
+* [List Components](steps-customization.md#list-components-step-customization)
+* [Post a Slack Message](steps-customization.md#post-slack-message-step-customization)
 
 Read below to learn about the parameters that can be customized within each Step.
 
@@ -256,7 +256,7 @@ The Update Jira Issue step features three main customizable parameters:
 
 * **Name**
 * **Description**
-* **Select Connection (required)**
+* **Select Connection (**_**required**_**)**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 10.32.46 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -266,7 +266,7 @@ The Create Pull Request step features four main customizable parameters:
 
 * **Name**
 * **Description**
-* **Select Connection (required)**
+* **Select Connection (**_**required**_**)**
 * **Destination branch**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 10.35.55 AM.png" alt="" width="375"><figcaption></figcaption></figure>
@@ -277,7 +277,7 @@ The Review Pull Request step features seven main customizable parameters:
 
 * **Name**
 * **Description**
-* **Select Connection (required)**
+* **Select Connection (**_**required**_**)**
 * **Destination branch**
 * **Complexity Threshold**
 * **AI Model**
@@ -296,15 +296,13 @@ The AI Model parameter offers six options:
 * o1
 * o3-mini
 
-
-
 ## Pull Request Exception step customization
 
 The Pull Request Exception step features eight main customizable parameters:
 
 * **Name**
 * **Description**
-* **Select Connection (required)**
+* **Select Connection (**_**required**_**)**
 * **Destination branch**
 * **Pull Request Label**
 * **Auto Approve** toggle
@@ -313,3 +311,48 @@ The Pull Request Exception step features eight main customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 11.02.22 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
+## Summarize Change step customization
+
+The Summarize Change step features six main customizable parameters:
+
+* **Name**
+* **Description**
+* **Select Connection (**_**required**_**)**
+* **Summary topics** checklist
+* **AI Model**
+* **Additional Instructions**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 1.41.35 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+### AI Model options
+
+The AI Model parameter offers six options:
+
+* SRE.ai Salesforce 1.0
+* Claude 3.5 Sonnet
+* Gemini 2.0 Flash
+* GPT 4o
+* o1
+* o3-mini
+
+## List Components step customization
+
+The List Components step features three main customizable parameters:
+
+* **Name**
+* **Description**
+* **Select Connection (**_**required**_**)**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 1.44.58 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+## &#x20;Post Slack Message step customization
+
+The Post Slack Message step features three main customizable parameters:
+
+* **Name**
+* **Description**
+* **Select Connection (**_**required**_**)**
+* **Channel (**_**required**_**)**
+* **Message**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 1.49.40 PM.png" alt="" width="375"><figcaption></figcaption></figure>
