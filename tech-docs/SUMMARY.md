@@ -12,7 +12,7 @@
     * [Triggers customization](flows/triggers/triggers-customization.md)
   * [Steps](flows/steps/README.md)
     * [Steps customization](flows/steps/steps-customization.md)
-  * [Flows cookbook](flows/flows-cookbook.md)
+  * [Flows cookbook](flows/cookbook.md)
   * [Slack flow](flows/slack-flow.md)
 * [Code Management](images-and-media/README.md)
   * [Changes](images-and-media/changes.md)

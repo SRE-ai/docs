@@ -58,7 +58,7 @@ Here are some functions you can execute with combinations of Triggers and Steps:
 * Maintain a pool of scratch-orgs with up-to-date packages, data, and configurations
 * Enhance team communication by posting messages to Slack channels directly from your workflows
 
-Learn more about example Flows by reading [SRE.AI's Flows Cookbook documentation](flows-cookbook.md).
+Learn more about example Flows by reading [SRE.AI's Flows Cookbook documentation](cookbook.md).
 
 ## **Getting started with Flows**
 
