@@ -21,3 +21,51 @@ Think of the Cookbook as your collection of recipes, examples of best practices 
 * **Best practice notes**:
   * Learn how experienced teams structure automations to maximize efficiency, reliability, and auditability, especially in high-change environments like Salesforce.
 
+## Why Use the Cookbook?
+
+* **Faster Setup**: Quickly launch common workflows without reinventing the wheel.
+* **Consistency**: Standardize how Flows are built across your team.
+* **Scalability**: Grow your automations easily by building off trusted templates.
+* **Reduced Error Risk**: Follow proven patterns that minimize mistakes in complex deployments.
+
+## Example Cookbook Recipes
+
+### Deploy to QA on PR Approval
+
+**Goal:**\
+When a Pull Request (PR) is approved, automatically promote the associated Collection to the QA environment.
+
+**Trigger:**
+
+* When a Pull Request is Approved
+
+**Steps:**
+
+1. Promote the associated Collection to the QA environment.
+2. (Optional) Post a Slack message to notify the team of the promotion.
+
+**Best for:**\
+Teams that want to move approved changes swiftly into QA testing without manual intervention.
+
+### Update Jira Issue After Deployment
+
+**Goal:**\
+After successfully deploying a Collection, automatically update the corresponding Jira ticket to reflect the deployment status.
+
+**Trigger:**
+
+* A Collection deploys
+
+**Steps:**
+
+1. Update the related Jira Issue (e.g., transition status to "Deployed to QA" or "Ready for Testing").
+2. Add a comment linking the deployment record or Collection ID.
+
+**Best for:**\
+Teams using Jira to track release readiness and QA coordination.
+
+***
+
+\
+
+
