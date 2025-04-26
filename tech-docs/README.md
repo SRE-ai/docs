@@ -28,15 +28,19 @@ SRE.ai redefines DevOps with **AI-driven automation**.&#x20;
 
 SRE.ai is a cross-platform application for Salesforce developers, analysts, and release managers to work on and collaborate on their next feature, project, or release within a single platform.
 
-SRE.ai enables you to package metadata, permissions, and data changes in simple constructs and commit, merge, build, and release those changes in a controlled manner. The data generated is saved locally and natively in Salesforce.
+SRE.ai enables you to package metadata, permissions, and data changes in simple constructs and commit, merge, build, and release those changes in a controlled manner.&#x20;
+
+The generated data is saved locally and natively in Salesforce.
 
 We built SRE.ai using Electron, which powers popular applications such as Visual Studio Code, Slack, and Postman.
 
 ## **Why SRE.ai?**
 
-Salesforce is a robust platform that allows for customization through configuration and code. However, moving a new feature from development to production can be challenging, especially when multiple teams work on different features and projects concurrently.
+Salesforce is a robust platform that allows for customization through configuration and code.&#x20;
 
-SRE.ai simplifies this process by streamlining the management of multiple features, projects, and environments and helping users focus on the most critical tasks.
+However, moving a new feature from development to production can be challenging, especially when multiple teams work on different features and projects concurrently.
+
+SRE.ai simplifies the DevOps process by streamlining the management of multiple features, projects, and environments, allowing users focus on more critical tasks.
 
 ## **How does** SRE.ai **work?**
 
