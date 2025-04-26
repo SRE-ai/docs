@@ -30,24 +30,9 @@ Think of the Cookbook as your collection of recipes, examples of best practices 
 
 ## Example Cookbook Recipes
 
-### Deploy to QA on PR Approval
-
-**Goal:**\
-When a Pull Request (PR) is approved, automatically promote the associated Collection to the QA environment.
-
-**Trigger:**
-
-* When a Pull Request is Approved
-
-**Steps:**
-
-1. Promote the associated Collection to the QA environment.
-2. (Optional) Post a Slack message to notify the team of the promotion.
-
-**Best for:**\
-Teams that want to move approved changes swiftly into QA testing without manual intervention.
-
 ### Update Jira Issue After Deployment
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcpWdjMREovieRd2MiMuc8iluIBHUgQlpPJzDDOm529K7KlVEn0H2rJfyJiZCNhxFXUe-Z4e6gTf13lJCUti_XOY-dLv9vdjJaBeuYnmaLS90Xyzrjktms18f9HJcsZ1o1-pEKk6A?key=KGRvWmZl-fuCdLy1wb0cBoXd" alt="" width="375"><figcaption></figcaption></figure>
 
 **Goal:**\
 After successfully deploying a Collection, automatically update the corresponding Jira ticket to reflect the deployment status.
