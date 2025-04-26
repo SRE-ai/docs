@@ -10,6 +10,8 @@ Instead of designing every automation from scratch, users can start with a preco
 
 Think of the Cookbook as your collection of recipes, examples of best practices you can apply, modify, and scale as your workflows grow more complex.
 
+***
+
 ## What You’ll Find in the Cookbook
 
 * **Pre-built Flow templates**:
@@ -21,12 +23,16 @@ Think of the Cookbook as your collection of recipes, examples of best practices 
 * **Best practice notes**:
   * Learn how experienced teams structure automations to maximize efficiency, reliability, and auditability, especially in high-change environments like Salesforce.
 
+***
+
 ## Why Use the Cookbook?
 
 * **Faster Setup**: Quickly launch common workflows without reinventing the wheel.
 * **Consistency**: Standardize how Flows are built across your team.
 * **Scalability**: Grow your automations easily by building off trusted templates.
 * **Reduced Error Risk**: Follow proven patterns that minimize mistakes in complex deployments.
+
+***
 
 ## Example Cookbook Recipes
 

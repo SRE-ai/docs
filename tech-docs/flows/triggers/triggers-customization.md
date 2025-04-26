@@ -19,6 +19,8 @@ SRE.ai offers six different Triggers:
 
 Read below to learn about the parameters that can be customized within each Trigger
 
+***
+
 ## Manual trigger customization
 
 A click activates a manual trigger.
@@ -26,6 +28,8 @@ A click activates a manual trigger.
 The manual trigger features one customizable parameter, a **Description.**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 2.38.30 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+***
 
 ## Schedule trigger customization
 
@@ -40,6 +44,8 @@ The Schedule trigger features three customizable parameters:
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 2.42.03 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Learn more about cron syntax in [SRE.ai's cron syntax documentation](../../images-and-media/cron-syntax.md).
+
+***
 
 ## Webhook trigger customization
 
@@ -59,6 +65,8 @@ The Webhooks trigger can connect with three apps:
 * Bitbucket
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 2.49.46 PM.png" alt="" width="235"><figcaption></figcaption></figure>
+
+***
 
 ## Commit trigger customization
 
@@ -97,6 +105,8 @@ Nodes are field values listed within other field values
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 4.40.29 PM.png" alt=""><figcaption></figcaption></figure>
 
+***
+
 ## Promote trigger customization
 
 Promote triggers feature three customizable parameters:
@@ -108,6 +118,8 @@ Promote triggers feature three customizable parameters:
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 4.42.05 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Conditions for Promote triggers are customized like [conditions for Commit triggers.](triggers-customization.md#conditions)
+
+***
 
 ## Deployment trigger customization
 

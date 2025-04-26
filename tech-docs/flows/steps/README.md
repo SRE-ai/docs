@@ -10,6 +10,8 @@ Steps are the actions that your Flow performs after being triggered.&#x20;
 
 You can string multiple Steps together to create powerful, rule-based automations across your DevOps pipeline.
 
+***
+
 ## Available Steps
 
 SRE.ai offers eighteen Step types:
@@ -32,6 +34,8 @@ SRE.ai offers eighteen Step types:
 * Summarize Change
 * List Components
 * Post a Slack Message
+
+***
 
 ## How Steps work in SRE.ai
 

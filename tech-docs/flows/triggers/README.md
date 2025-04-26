@@ -18,6 +18,8 @@ Triggers initiate Flows once their specific event occurs.
 
 Triggers help you respond automatically to DevOps activity without polling, scripts, or brittle automations.
 
+***
+
 ## Available Triggers
 
 SRE.ai offers six different Triggers:
@@ -30,6 +32,8 @@ SRE.ai offers six different Triggers:
 * Deployment
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 1.43.59 PM (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+***
 
 ## How Triggers work in SRE.ai
 
