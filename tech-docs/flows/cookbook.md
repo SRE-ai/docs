@@ -4,5 +4,20 @@
 
 ## What is the Flows Cookbook?
 
-The Cookbook is a curated library of pre-built Flow examples that show how Triggers and Steps can be combined to solve common DevOps challenges. Think of it as your automation inspiration board.
+The Flows Cookbook offers curated, ready-to-use templates for building Flows faster and more reliably.&#x20;
+
+Instead of designing every automation from scratch, users can start with a preconfigured combination of triggers and steps that solve common DevOps scenarios.
+
+Think of the Cookbook as your collection of recipes, examples of best practices you can apply, modify, and scale as your workflows grow more complex.
+
+#### What You’ll Find in the Cookbook
+
+* **Pre-built Flow templates**:
+  * Ready-to-deploy Flows that bundle common sequences of triggers and steps for Salesforce DevOps tasks (like promoting changes after a Pull Request is approved).
+* **Trigger and step combinations**:
+  * Each recipe outlines a logical chain of automation: when a specific trigger occurs (e.g., a commit to a branch), a sequence of steps (e.g., create a pull request, promote changes, update a Jira issue) automatically follows.
+* **Customization guidance**:
+  * Each recipe serves as a starting point. You can adapt and extend them by adding conditions, steps, or human-in-the-loop checkpoints to fit your specific DevOps needs.
+* **Best practice notes**:
+  * Learn how experienced teams structure automations to maximize efficiency, reliability, and auditability, especially in high-change environments like Salesforce.
 
