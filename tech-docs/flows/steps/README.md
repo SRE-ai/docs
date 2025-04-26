@@ -47,7 +47,7 @@ Click any Step in a Flow to open the View Step panel
 
 <figure><img src="../../.gitbook/assets/EditStepHighlight2.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Click the blue pen in the top right of the View Step panel to edit the Step's parameters.
+Click **the Edit button** in the top right of the View Step panel to edit the Step's parameters.
 
 <figure><img src="../../.gitbook/assets/ViewStepPanel.png" alt="" width="375"><figcaption></figcaption></figure>
 

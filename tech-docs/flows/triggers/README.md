@@ -37,7 +37,7 @@ Click on a Trigger in the Flow builder to open the View Trigger panel.
 
 <figure><img src="../../.gitbook/assets/Trigger Highlight.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Click the blue pen in the top right of the View Trigger panel to edit the Trigger type.
+Click **the Edit button** in the top right of the View Trigger panel to edit the Trigger type.
 
 <figure><img src="../../.gitbook/assets/EditTriggerHighlight.png" alt="" width="375"><figcaption></figcaption></figure>
 

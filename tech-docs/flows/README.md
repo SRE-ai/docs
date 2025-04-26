@@ -72,16 +72,16 @@ Click on an existing Flow to view or edit the Flow.
 
 ### Create new Flow
 
-Click **the "New" button** to name and create a new Flow.
+Click **the "New" button** in the main page to name and create a new Flow.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-25 at 3.55.22 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
+In the Flow Builder, click **the Edit button** to add or remove Steps and edit existing Triggers and/or Steps.
 
+<figure><img src="../.gitbook/assets/Edit Flows Button.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Get started with Flows by:
+Click **the Activation button** to activate your Flow after you have arranged your desired Triggers and Steps.
 
-* Defining your workflow with the intuitive interface
-* Setting your triggers
-* Selecting the necessary elements
+<figure><img src="../.gitbook/assets/The Activate Button.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Flows will take care of the rest, ensuring your processes run smoothly and efficiently.
