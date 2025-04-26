@@ -10,7 +10,7 @@ Instead of designing every automation from scratch, users can start with a preco
 
 Think of the Cookbook as your collection of recipes, examples of best practices you can apply, modify, and scale as your workflows grow more complex.
 
-#### What You’ll Find in the Cookbook
+## What You’ll Find in the Cookbook
 
 * **Pre-built Flow templates**:
   * Ready-to-deploy Flows that bundle common sequences of triggers and steps for Salesforce DevOps tasks (like promoting changes after a Pull Request is approved).
