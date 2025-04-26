@@ -13,13 +13,19 @@ Flows empower you to orchestrate complex, multi-step processes seamlessly.&#x20;
 
 Flows integrate various applications and trigger criteria to streamline operations.
 
+Flows take a declarative approach.&#x20;
+
+With Flows, you define what you want to achieve without worrying about the technical details of how it gets done.
+
+Flows make it accessible for users of all technical backgrounds and reduce the learning curve significantly.
+
 ## **Features**
 
-### **Triggers for automation**
+### **Triggers**
 
-Flows features Triggers to automate DevOps workflows based on specific criteria.&#x20;
+Triggers initiate a Flow.
 
-Triggers allow you to initiate processes exactly when needed, whether it's:
+Triggers allow you to initiate a Flow exactly when needed, whether it's:
 
 * After a commit,&#x20;
 * After a change in a Jira issue
@@ -27,21 +33,13 @@ Triggers allow you to initiate processes exactly when needed, whether it's:
 
 Learn more about Triggers in[ SRE.ai's Triggers documentation](triggers/).
 
-### **Declarative approach**
+### **Steps**&#x20;
 
-Flows take a declarative approach.&#x20;
+Steps define a Flow's execution.
 
-With Flows, you define what you want to achieve without worrying about the technical details of how it gets done.
+Steps let you arrange the string of instances and dependencies that will occur after a Trigger.
 
-Flows make it accessible for users of all technical backgrounds and reduce the learning curve significantly.
-
-### **Steps orchestration**
-
-Flows lets you orchestrate complex workflows involving multiple steps and dependencies.
-
-Flows ensure Steps execute in the correct order.&#x20;
-
-You define the right conditions and criteria to keep the process smooth and error-free.
+Moreover, you can define specific conditions and criteria to keep a Flow's execution smooth and error-free.
 
 Learn more about Steps in [SRE.ai's Steps documentation](steps/).
 
@@ -66,7 +64,7 @@ Learn more about example Flows by reading [SRE.AI's Flows Cookbook documentation
 
 <figure><img src="../.gitbook/assets/FlowsLanding.png" alt="" width="375"><figcaption></figcaption></figure>
 
-By default, the Flows page only displays Active Flows.
+By default, the Flows page only displays active Flows.
 
 Click **the "All" button** to view every Flow in your system.
 
