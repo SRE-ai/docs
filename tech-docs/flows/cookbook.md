@@ -58,6 +58,3 @@ Teams using Jira to track release readiness and QA coordination.
 
 ***
 
-\
-
-
