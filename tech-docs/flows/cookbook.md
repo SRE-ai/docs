@@ -2,13 +2,24 @@
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcRWaceZaZDTb6oKsMTZ5oW8b-07Ybk7BbiKhgH2E6fD3sIZ7PO4pvsPAWkzFIxfT1nw0jL0IvuaoW3yaOxIqEskSKiNW-w_2b_r5Dn9H78tv7kozAJu5kxCGGnqR5VnS0mpsX6xg?key=KGRvWmZl-fuCdLy1wb0cBoXd)
 
-## What is the Flows Cookbook?
+## Overview
 
-The Flows Cookbook offers curated, ready-to-use templates for building Flows faster and more reliably.&#x20;
+The SRE.ai Cookbook is your launchpad for building smarter, faster automations.
 
-Instead of designing every automation from scratch, users can start with a preconfigured combination of triggers and steps that solve common DevOps scenarios.
+Think of it as a collection of real-world recipes, showcasing how you can combine **Triggers** (the events that kick things off) and **Steps** (the actions that follow) to streamline your DevOps workflows.
 
-Think of the Cookbook as your collection of recipes, examples of best practices you can apply, modify, and scale as your workflows grow more complex.
+Unlike traditional "cookbooks" packed with code and tests, SRE.ai makes automation **intuitive**.&#x20;
+
+Each recipe gives you a simple blueprint: what happens, when it happens, and how it moves work forward.&#x20;
+
+No scripting required.
+
+Whether you're looking to **auto-promote changes after approval**, **sync updates to Jira**, or **notify your team in Slack**, our Cookbook helps you see what's possible and sparks ideas for your own custom Flows.
+
+Use these examples as starting points.
+
+\
+Tweak them. Remix them. Make them yours.
 
 ***
 
@@ -20,8 +31,6 @@ Think of the Cookbook as your collection of recipes, examples of best practices 
   * Each recipe outlines a logical chain of automation: when a specific trigger occurs (e.g., a commit to a branch), a sequence of steps (e.g., create a pull request, promote changes, update a Jira issue) automatically follows.
 * **Customization guidance**:
   * Each recipe serves as a starting point. You can adapt and extend them by adding conditions, steps, or human-in-the-loop checkpoints to fit your specific DevOps needs.
-* **Best practice notes**:
-  * Learn how experienced teams structure automations to maximize efficiency, reliability, and auditability, especially in high-change environments like Salesforce.
 
 ***
 
@@ -43,6 +52,9 @@ Think of the Cookbook as your collection of recipes, examples of best practices 
 **Goal:**\
 After successfully deploying a Collection, automatically update the corresponding Jira ticket to reflect the deployment status.
 
+**Best for:**\
+Teams using Jira to track release readiness and QA coordination.
+
 **Trigger:**
 
 * A Collection deploys
@@ -55,9 +67,6 @@ After successfully deploying a Collection, automatically update the correspondin
 2. Add a comment linking the deployment record or Collection ID.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 11.46.50 AM.png" alt="" width="375"><figcaption></figcaption></figure>
-
-**Best for:**\
-Teams using Jira to track release readiness and QA coordination.
 
 ***
 
