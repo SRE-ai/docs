@@ -56,5 +56,99 @@ Teams using Jira to track release readiness and QA coordination.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 11.46.50 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-***
+### \[Example]
+
+**Goal:**\
+\[Text goes here]
+
+**Best for:**\
+\[Text goes here]
+
+**Trigger:**
+
+* \[Text goes here]
+
+**Steps:**
+
+1. \[Text goes here]
+
+### \[Example]
+
+**Goal:**\
+\[Text goes here]
+
+**Best for:**\
+\[Text goes here]
+
+**Trigger:**
+
+* \[Text goes here]
+
+**Steps:**
+
+1. \[Text goes here]
+
+### \[Example]
+
+**Goal:**\
+\[Text goes here]
+
+**Best for:**\
+\[Text goes here]
+
+**Trigger:**
+
+* \[Text goes here]
+
+**Steps:**
+
+1. \[Text goes here]
+
+### \[Example]
+
+**Goal:**\
+\[Text goes here]
+
+**Best for:**\
+\[Text goes here]
+
+**Trigger:**
+
+* \[Text goes here]
+
+**Steps:**
+
+1. \[Text goes here]
+
+### \[Example]
+
+**Goal:**\
+\[Text goes here]
+
+**Best for:**\
+\[Text goes here]
+
+**Trigger:**
+
+* \[Text goes here]
+
+**Steps:**
+
+1. \[Text goes here]
+
+### \[Example]
+
+**Goal:**\
+\[Text goes here]
+
+**Best for:**\
+\[Text goes here]
+
+**Trigger:**
+
+* \[Text goes here]
+
+**Steps:**
+
+1. \[Text goes here]
 
