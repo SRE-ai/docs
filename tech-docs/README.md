@@ -18,7 +18,7 @@ layout:
 
 # Welcome
 
-SRE.ai redefines DevOps with **AI-drive assistance that streamlines deployment and saves time.**
+SRE.ai redefines DevOps with **AI-drive assistance** that **streamlines deployment** and **saves time**.
 
 ## Jump right in
 
