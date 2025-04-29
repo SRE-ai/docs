@@ -131,7 +131,7 @@ A Collection deploys.
 **Steps:**
 
 1. Update the related Jira Issue (e.g., transition status to "Deployed to QA" or "Ready for Testing").
-2. Add a comment linking the deployment record or Collection ID.
+   1. Add a comment linking the deployment record or Collection ID.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 11.46.50 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
