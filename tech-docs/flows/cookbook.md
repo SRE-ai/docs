@@ -147,7 +147,7 @@ A Collection deploys.
 
 **Trigger:**
 
-Triggered by a Jira issue that starts with "CRM" that has not been created or updated.
+Triggered by a Jira issue that starts with "CRM" that is assigned to a spring and is newly created or updated.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 7.14.32 PM.png" alt="" width="353"><figcaption></figcaption></figure>
 
