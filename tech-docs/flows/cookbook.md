@@ -52,25 +52,25 @@ Teams that want to simply the commit process, maintain clean version control, an
 
 The user manually activates the Trigger.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 4.13.47 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 4.13.47 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Steps:**
 
 1. Select a Source Instance for the Create Change Step
 
-<figure><img src="../.gitbook/assets/create-change-step.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/create-change-step.png" alt="" width="563"><figcaption></figcaption></figure>
 
 2. Set the Scope and Time Range for the Import Changes Step
 
-<figure><img src="../.gitbook/assets/import-changes-step (1).png" alt="" width="357"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/import-changes-step.png" alt="" width="563"><figcaption></figcaption></figure>
 
 3. Select a Repository and Commit type for the Commit Step
 
-<figure><img src="../.gitbook/assets/commit-step.png" alt="" width="357"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/commit-step (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 4. Select a Connection and Destination branch for the Create Pull Request Step
 
-<figure><img src="../.gitbook/assets/create-pull-request-step.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/create-pull-request-step.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Review pull request
 
