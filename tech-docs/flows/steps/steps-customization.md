@@ -33,6 +33,10 @@ Read below to learn about the parameters that can be customized within each Step
 
 ## Create Change step customization
 
+<details>
+
+<summary>Click to learn more about the Create Change step</summary>
+
 The Create Change step features three customizable parameters:
 
 * **Name**
@@ -43,9 +47,15 @@ The Create Change step features three customizable parameters:
 
 The Source Instances that are available depend on the Salesforce environment that you are connected to.
 
+</details>
+
 ***
 
 ## Create Collection step customization
+
+<details>
+
+<summary>Click to learn more about the Create Collection step</summary>
 
 The Create Change step features three customizable parameters:
 
@@ -57,9 +67,15 @@ The Create Change step features three customizable parameters:
 
 The Source Instances that are available depend on the Salesforce environment that you are connected to.
 
+</details>
+
 ***
 
 ## Add to Collection step customization
+
+<details>
+
+<summary>Click to learn more about the Add to Collection step</summary>
 
 The Add to Collection step features two customizable parameters:
 
@@ -68,9 +84,15 @@ The Add to Collection step features two customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 5.08.46 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
+</details>
+
 ***
 
 ## Remove from Collection step customization
+
+<details>
+
+<summary>Click to learn more about the Remove from Collection step</summary>
 
 The Remove from Collection step features two customizable parameters:
 
@@ -79,9 +101,15 @@ The Remove from Collection step features two customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 5.10.09 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
+</details>
+
 ***
 
 ## Import Changes step customization
+
+<details>
+
+<summary>Click to learn more about the Import Changes step</summary>
 
 The Import Changes step features six customizable parameters:
 
@@ -110,9 +138,15 @@ The **Time range filter** parameter features six options:
 * **This month**
 * **Last 90 days**
 
+</details>
+
 ***
 
 ## Commit step customization
+
+<details>
+
+<summary>Click to learn more about the Commit step</summary>
 
 The Commit step features five customizable parameters:
 
@@ -126,9 +160,15 @@ The Commit step features five customizable parameters:
 
 The elements within the **Select change,** **Select Source Instance,** and **Select Repository** parameters are impacted by the Salesforce environment that you are connected to.
 
+</details>
+
 ***
 
 ## Promote step customization
+
+<details>
+
+<summary>Click to learn more about the Promote step</summary>
 
 The Promote step features nine customizable parameters:
 
@@ -153,9 +193,15 @@ The **Conflict resolution** parameter offers four options:
 * Favor source branch
 * Favor target branch
 
+</details>
+
 ***
 
 ## Deploy step customization
+
+<details>
+
+<summary>Click to learn more about the Deploy step</summary>
 
 The Deploy step features seven customizable parameters:
 
@@ -170,6 +216,8 @@ The Deploy step features seven customizable parameters:
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 6.19.19 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 The elements within the **Select Target Instance**, **Select Collection**, and **Select Source** parameters are impacted by the Salesforce environment that you are connected to.
+
+</details>
 
 ***
 
