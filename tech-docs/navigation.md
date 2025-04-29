@@ -16,11 +16,15 @@ The sidebar organizes core tools and workflows that map directly to this lifecyc
 
 ## **Home**
 
+<figure><img src=".gitbook/assets/the-home-page.png" alt=""><figcaption></figcaption></figure>
+
 The Home tab provides a high-level overview of recent activity, environment health, and relevant updates across your connected systems.
 
 ***
 
 ## **Changes**
+
+<figure><img src=".gitbook/assets/the-changes-page.png" alt=""><figcaption></figcaption></figure>
 
 Track and manage metadata and code changes in real time.
 
@@ -32,6 +36,8 @@ Learn more about Changes in [SRE.ai's Changes documentation.](images-and-media/c
 
 ## **Collections**
 
+<figure><img src=".gitbook/assets/the-collections-page.png" alt=""><figcaption></figcaption></figure>
+
 Group multiple changes into a single unit of work.
 
 Collections let you group changes that belong together, whether you're working on a new feature, a bug fix, or a release. Track their progress, assign them to teammates, and promote them in one go.
@@ -41,6 +47,8 @@ Learn more about Collections in [SRE.ai's Collections documentation.](images-and
 ***
 
 ## **Instances**
+
+<figure><img src=".gitbook/assets/the-instances-page.png" alt=""><figcaption></figcaption></figure>
 
 Manage the orgs or environments connected to your repository.
 
@@ -52,6 +60,8 @@ Learn more about Instances in [SRE.ai's Instances documentation.](images-and-med
 
 ## Repositories
 
+<figure><img src=".gitbook/assets/the-repos-page.png" alt=""><figcaption></figcaption></figure>
+
 Configure and connect Git repositories used for version control.
 
 Link your repositories, define source formats, and control Git behavior. This is the foundation of your DevOps pipeline, ensuring your environments and version control are in sync.
@@ -62,6 +72,8 @@ Learn more about Repositories in [SRE.ai's Repositories documentation](images-an
 
 ## **Flows**
 
+<figure><img src=".gitbook/assets/the-flows-page.png" alt=""><figcaption></figcaption></figure>
+
 Create declarative workflows using triggers and steps.
 
 Flows let you define custom automations for your team, from triggering deployments to updating Jira. Build workflows with a few clicks and eliminate repetitive manual steps.
@@ -71,6 +83,8 @@ Learn more about Flows in SRE.ai's Flows documentation.
 ***
 
 ## **Activities**
+
+<figure><img src=".gitbook/assets/the-activities-page.png" alt=""><figcaption></figcaption></figure>
 
 View a detailed log of actions taken across the platform.
 
@@ -87,6 +101,8 @@ Activities help you audit what happened, when, and by whom, bringing transparenc
 
 ## **Pipeline**
 
+<figure><img src=".gitbook/assets/the=pipeline-page.png" alt=""><figcaption></figcaption></figure>
+
 Monitor end-to-end CI/CD pipelines.
 
 The pipeline view connects repositories, environments, and automation flows to give you a bird’s-eye view of your release process.
@@ -94,6 +110,8 @@ The pipeline view connects repositories, environments, and automation flows to g
 ***
 
 ## **Jobs**
+
+<figure><img src=".gitbook/assets/the-jobs-page.png" alt=""><figcaption></figcaption></figure>
 
 Track automated or manually triggered executions.
 
