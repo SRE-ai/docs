@@ -13,10 +13,10 @@ Each login requires this token, and the application will stay connected until yo
 
 The "LOCAL (offline)" workspace is available by default and is a good starting point for evaluating the platform.
 
-The LOCAL workspace gives you access to all the features of Infinit for individual use, except for collaboration, which requires [creating or being invited to a workspace.](quickstart.md#setting-up-workspace)
+The LOCAL workspace gives you access to all the features of SRE.ai for individual use, except for collaboration, which requires [creating or being invited to a workspace.](quickstart.md#setting-up-workspace)
 
 {% hint style="info" %}
-[Git](https://git-scm.com/downloads) must be pre-installed for all functions to work correctly.
+I**MPORTANT:** [Git](https://git-scm.com/downloads) must be pre-installed for all functions to work correctly.
 {% endhint %}
 
 ***
