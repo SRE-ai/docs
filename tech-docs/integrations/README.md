@@ -27,11 +27,7 @@ SRE.ai solves this by integrating directly into your systems of record, bringing
 
 ## What you’ll find here
 
-This section includes step-by-step guides for setting up and managing integrations with tools like:
-
-* **Salesforce** – Set up managed packages, connect GitHub actions, and configure authentication via SSO.
-* **GitHub** – Authorize and sync secrets, variables, and workflows for continuous deployment.
-* **Slack (via Flows)** – Automate communication touchpoints from inside your DevOps pipeline.
+This section includes step-by-step guides for setting up and managing integrations with tools like Salesforc&#x65;**.**
 
 Each integration guide is written to be scannable, repeatable, and reliable, ensuring setup can be completed confidently by any team member, technical or not.
 
