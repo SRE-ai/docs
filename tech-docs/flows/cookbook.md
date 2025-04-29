@@ -161,7 +161,9 @@ Triggered by a Jira issue that starts with "CRM" that is assigned to a spring an
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 7.40.04 PM.png" alt=""><figcaption></figcaption></figure>
 
-### \[Example]
+### Track changes
+
+<figure><img src="../.gitbook/assets/track-changes-flow.png" alt=""><figcaption></figcaption></figure>
 
 **Goal:**\
 \[Text goes here]
