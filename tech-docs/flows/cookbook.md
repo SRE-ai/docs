@@ -135,7 +135,9 @@ A Collection deploys.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 11.46.50 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-### \[Example]
+### Update collection
+
+<figure><img src="../.gitbook/assets/update-collection-flow.png" alt=""><figcaption></figcaption></figure>
 
 **Goal:**\
 \[Text goes here]
@@ -145,7 +147,9 @@ A Collection deploys.
 
 **Trigger:**
 
-* \[Text goes here]
+Triggered by a Jira issue that starts with "CRM" that has not been created or updated.
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 7.14.32 PM.png" alt="" width="353"><figcaption></figcaption></figure>
 
 **Steps:**
 
