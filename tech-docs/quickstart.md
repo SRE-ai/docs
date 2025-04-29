@@ -32,7 +32,7 @@ A workspace is a collaborative space where team members can work together. As an
 To invite team members to the workspace, add their email addresses as members.
 
 {% hint style="info" %}
-You must have the **Manage Workspace** permission as the administrator to perform these tasks.
+**IMPORTANT:** You must have the **Manage Workspace** permission as the administrator to perform these tasks.
 {% endhint %}
 
 <figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
