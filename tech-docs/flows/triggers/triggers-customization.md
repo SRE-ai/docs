@@ -49,6 +49,10 @@ Learn more about cron syntax in [SRE.ai's cron syntax documentation](../../image
 
 ## Webhook trigger customization
 
+<details>
+
+<summary>Click to learn more about the Webhook trigger</summary>
+
 The Webhook trigger features two customizable parameters:
 
 * **Description**
@@ -66,9 +70,15 @@ The Webhooks trigger can connect with three apps:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 2.49.46 PM.png" alt="" width="235"><figcaption></figcaption></figure>
 
+</details>
+
 ***
 
 ## Commit trigger customization
+
+<details>
+
+<summary>Click to learn more about the Commit trigger</summary>
 
 The Commit trigger features three customizable parameters:
 
@@ -104,6 +114,8 @@ Multiple conditions can be paired with one another
 Nodes are field values listed within other field values
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 4.40.29 PM.png" alt=""><figcaption></figcaption></figure>
+
+</details>
 
 ***
 
