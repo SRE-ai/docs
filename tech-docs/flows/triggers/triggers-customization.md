@@ -51,7 +51,7 @@ Learn more about cron syntax in [SRE.ai's cron syntax documentation](../../image
 
 <details>
 
-<summary>Click to learn more about the Webhook trigger</summary>
+<summary><mark style="background-color:yellow;"><strong>Click to learn more about the Webhook trigger</strong></mark></summary>
 
 The Webhook trigger features two customizable parameters:
 
@@ -78,7 +78,7 @@ The Webhooks trigger can connect with three apps:
 
 <details>
 
-<summary>Click to learn more about the Commit trigger</summary>
+<summary><mark style="background-color:yellow;"><strong>Click to learn more about the Commit trigger</strong></mark></summary>
 
 The Commit trigger features three customizable parameters:
 
