@@ -10,6 +10,8 @@ description: Learn how to set up SRE.ai in Slack.
    * Remote Site Name: Slack
    * Remote Site URL:[ https://slack.com](https://slack.com)
 
+***
+
 ## **Slack App Configuration**
 
 ### Create a new Slack app
@@ -36,6 +38,8 @@ description: Learn how to set up SRE.ai in Slack.
 7. Click **Allow**
 8. Take note of the **Bot User OAuth Token** for later use
 
+***
+
 ## Slack channel setup
 
 1. Create a private Slack channel
@@ -46,6 +50,8 @@ description: Learn how to set up SRE.ai in Slack.
    1. Type "@SRE" in the chat
    2. Accept Slack's prompt to invite the bot
 
+***
+
 ## SRE Web App Configuration
 
 1. Click **Manage \[your workspace]** in the SRE web application
@@ -55,6 +61,8 @@ description: Learn how to set up SRE.ai in Slack.
 5. Name the connection **"Slack"**
 6. Paste the [OAuth token you noted earlier](slack-flow.md#configure-app-permissions)
 7. Click **Save**
+
+***
 
 ## SRE Web App Flow Configuration
 

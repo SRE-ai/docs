@@ -4,7 +4,9 @@ Learn **how to implement effective release management strategies** in SRE.ai.
 
 An effective release management process requires a stable, practical environment strategy and a clear branching strategy.
 
-### Environment Strategy
+***
+
+## Environment Strategy
 
 An environment strategy outlines the efficient, reliable, and sustainable management and deployment of software to various environments (e.g., development, testing, staging, etc.) used in the software development process.
 
@@ -22,7 +24,9 @@ A typical Environment Strategy may look like this:
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-### Branching Strategy
+***
+
+## Branching Strategy
 
 A Branching Strategy organizes and stores different versions of code in a source control repository.
 
