@@ -33,10 +33,6 @@ Read below to learn about the parameters that can be customized within each Step
 
 ## Create Change step customization
 
-<details>
-
-<summary>Click to learn more about the Create Change step</summary>
-
 The Create Change step features three customizable parameters:
 
 * **Name**
@@ -47,15 +43,9 @@ The Create Change step features three customizable parameters:
 
 The Source Instances that are available depend on the Salesforce environment that you are connected to.
 
-</details>
-
 ***
 
 ## Create Collection step customization
-
-<details>
-
-<summary>Click to learn more about the Create Collection step</summary>
 
 The Create Change step features three customizable parameters:
 
@@ -67,15 +57,9 @@ The Create Change step features three customizable parameters:
 
 The Source Instances that are available depend on the Salesforce environment that you are connected to.
 
-</details>
-
 ***
 
 ## Add to Collection step customization
-
-<details>
-
-<summary>Click to learn more about the Add to Collection step</summary>
 
 The Add to Collection step features two customizable parameters:
 
@@ -83,8 +67,6 @@ The Add to Collection step features two customizable parameters:
 * **Description**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 5.08.46 PM.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</details>
 
 ***
 
