@@ -223,6 +223,10 @@ The elements within the **Select Target Instance**, **Select Collection**, and *
 
 ## Install Package step customization
 
+<details>
+
+<summary>Click to learn more about the Install Package step</summary>
+
 The Install Package step features nine customizable parameters:
 
 * **Name**
@@ -239,9 +243,15 @@ The Install Package step features nine customizable parameters:
 
 The elements within the **Select Target Instance** and **Select DevHub Instance** parameters are impacted by the Salesforce environment that you are connected to.
 
+</details>
+
 ***
 
 ## Create Package Version step customization
+
+<details>
+
+<summary>Click to learn more about the Create Package Version step</summary>
 
 The Create Package step features five main customizable parameters:
 
@@ -272,9 +282,15 @@ The Create Package Version step also features ten customizable parameters that a
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 7.10.20 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
+</details>
+
 ***
 
 ## Create Scratch Org step customization
+
+<details>
+
+<summary>Click to learn more about the Create Scratch Org step</summary>
 
 The Create Scratch Org step features five main customizable parameters:
 
@@ -320,9 +336,15 @@ The Create Scratch Org  step also features six customizable parameters that are 
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 7.43.43 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
+</details>
+
 ***
 
 ## Update Jira Issue step customization
+
+<details>
+
+<summary>Click to learn more about the Update Jira Issue step</summary>
 
 The Update Jira Issue step features three main customizable parameters:
 
@@ -332,9 +354,15 @@ The Update Jira Issue step features three main customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 10.32.46 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
+</details>
+
 ***
 
 ## Create Pull Request step customization
+
+<details>
+
+<summary>Click to learn more about the Create Pull Request step</summary>
 
 The Create Pull Request step features four main customizable parameters:
 
@@ -345,9 +373,15 @@ The Create Pull Request step features four main customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 10.35.55 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
+</details>
+
 ***
 
 ## Review Pull Request step customization
+
+<details>
+
+<summary>Click to learn more about the Review Pull Request step</summary>
 
 The Review Pull Request step features seven main customizable parameters:
 
@@ -372,9 +406,15 @@ The AI Model parameter offers six options:
 * o1
 * o3-mini
 
+</details>
+
 ***
 
 ## Pull Request Exception step customization
+
+<details>
+
+<summary>Click to learn more about the Pull Request Exception step</summary>
 
 The Pull Request Exception step features eight main customizable parameters:
 
@@ -389,9 +429,15 @@ The Pull Request Exception step features eight main customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 11.02.22 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
+</details>
+
 ***
 
 ## Summarize Change step customization
+
+<details>
+
+<summary>Click to learn more about the Summarize Change step </summary>
 
 The Summarize Change step features six main customizable parameters:
 
@@ -415,9 +461,15 @@ The AI Model parameter offers six options:
 * o1
 * o3-mini
 
+</details>
+
 ***
 
 ## List Components step customization
+
+<details>
+
+<summary>Click to learn more about the List Components step</summary>
 
 The List Components step features three main customizable parameters:
 
@@ -427,9 +479,15 @@ The List Components step features three main customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 1.44.58 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
+</details>
+
 ***
 
 ## Post Slack Message step customization
+
+<details>
+
+<summary>Click to learn more about the Post Slack Message step</summary>
 
 The Post Slack Message step features three main customizable parameters:
 
@@ -440,3 +498,7 @@ The Post Slack Message step features three main customizable parameters:
 * **Message**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 1.49.40 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+
+
+</details>
