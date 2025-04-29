@@ -19,6 +19,8 @@ The LOCAL workspace gives you access to all the features of Infinit for individu
 [Git](https://git-scm.com/downloads) must be pre-installed for all functions to work correctly.
 {% endhint %}
 
+***
+
 ## Setting up workspace
 
 Learn about the basics of a workspace, and how to install SRE.ai into the workspace.

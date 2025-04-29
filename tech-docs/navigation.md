@@ -12,9 +12,13 @@ SRE.ai is designed to streamline the full DevOps lifecycle across three pillars:
 
 The sidebar organizes core tools and workflows that map directly to this lifecycle.
 
+***
+
 ## **Home**
 
 The Home tab provides a high-level overview of recent activity, environment health, and relevant updates across your connected systems.
+
+***
 
 ## **Changes**
 
@@ -24,6 +28,8 @@ Use the Changes tab to view detected updates, compare metadata, and commit code.
 
 Learn more about Changes in [SRE.ai's Changes documentation.](images-and-media/changes.md)
 
+***
+
 ## **Collections**
 
 Group multiple changes into a single unit of work.
@@ -31,6 +37,8 @@ Group multiple changes into a single unit of work.
 Collections let you group changes that belong together, whether you're working on a new feature, a bug fix, or a release. Track their progress, assign them to teammates, and promote them in one go.
 
 Learn more about Collections in [SRE.ai's Collections documentation.](images-and-media/collections.md)
+
+***
 
 ## **Instances**
 
@@ -40,6 +48,8 @@ Each instance corresponds to a Salesforce environment (e.g., Dev, QA, Staging) a
 
 Learn more about Instances in [SRE.ai's Instances documentation.](images-and-media/instances.md)
 
+***
+
 ## Repositories
 
 Configure and connect Git repositories used for version control.
@@ -48,6 +58,8 @@ Link your repositories, define source formats, and control Git behavior. This is
 
 Learn more about Repositories in [SRE.ai's Repositories documentation](images-and-media/repostitories.md).
 
+***
+
 ## **Flows**
 
 Create declarative workflows using triggers and steps.
@@ -55,6 +67,8 @@ Create declarative workflows using triggers and steps.
 Flows let you define custom automations for your team, from triggering deployments to updating Jira. Build workflows with a few clicks and eliminate repetitive manual steps.
 
 Learn more about Flows in SRE.ai's Flows documentation.
+
+***
 
 ## **Activities**
 
@@ -69,16 +83,22 @@ Activities show who did what, when, including:&#x20;
 
 Activities help you audit what happened, when, and by whom, bringing transparency to your entire release cycle.
 
+***
+
 ## **Pipeline**
 
 Monitor end-to-end CI/CD pipelines.
 
 The pipeline view connects repositories, environments, and automation flows to give you a bird’s-eye view of your release process.
 
+***
+
 ## **Jobs**
 
 Track automated or manually triggered executions.
 
 Jobs represent deployments, flow runs, environment resets, or metadata syncs. This view provides visibility into job status, logs, and results.
+
+***
 
 \
