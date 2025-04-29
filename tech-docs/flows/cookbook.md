@@ -33,7 +33,86 @@ Tweak them. Remix them. Make them yours.
 
 ## Example Cookbook Recipes
 
-### Update Jira Issue After Deployment
+### Commit latest pull request
+
+<figure><img src="../.gitbook/assets/commit-latest.png" alt="" width="375"><figcaption></figcaption></figure>
+
+**Goal:**\
+Quickly package and commit the latest changes from your Salesforce environment, creating a pull request for review.
+
+**Best for:**\
+Teams that want to simply the commit process, maintain clean version control, and accelerate deployment pipelines by bundling:
+
+* Change tracking
+* Imports
+* Commits
+* PR creation
+
+**Trigger:**
+
+The user manually activates the Trigger.
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 4.13.47 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
+**Steps:**
+
+1. Select a Source Instance for the Create Change step
+
+<figure><img src="../.gitbook/assets/create-change-step.png" alt="" width="375"><figcaption></figcaption></figure>
+
+2. Set the Scope and Time Range for the Import Changes Step
+
+<figure><img src="../.gitbook/assets/import-changes-step (1).png" alt="" width="357"><figcaption></figcaption></figure>
+
+3. Select a Repository and Commit type for the Commit Step
+
+<figure><img src="../.gitbook/assets/commit-step.png" alt="" width="357"><figcaption></figcaption></figure>
+
+4. Select a Connection and Destination branch for the Create Pull Request step
+
+<figure><img src="../.gitbook/assets/create-pull-request-step.png" alt=""><figcaption></figcaption></figure>
+
+### Review pull request
+
+<figure><img src="../.gitbook/assets/review-pull-request-flow.png" alt=""><figcaption></figcaption></figure>
+
+**Goal:**\
+\[Text goes here]
+
+**Best for:**\
+\[Text goes here]
+
+**Trigger:**
+
+Triggered by Github
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 5.26.23 PM.png" alt=""><figcaption></figcaption></figure>
+
+**Steps:**
+
+1. Edit the Pull Request Exception Step to Check for Skip Test by:
+   1. Selecting a Connection
+   2. Labelling the Pull Request Action as "Skip Test"
+   3. Setting the Criteria to Exclude your selected Types
+
+<figure><img src="../.gitbook/assets/check-for-skip-test-step.png" alt=""><figcaption></figcaption></figure>
+
+2. Edit the Pull Request Exception Step to Check for Skip Reviews by:
+   1. Selecting a Connection
+   2. Labelling the Pull Request Action as "Skip Reviews"
+   3. Turning the Auto Approve toggle on
+   4. Setting the Criteria to Exclude your selected Types
+
+<figure><img src="../.gitbook/assets/check-for-skip-reviews-step.png" alt="" width="563"><figcaption></figcaption></figure>
+
+3. Edit the Summarize Change Step by:
+   1. Selecting a Connection
+   2. Selecting Key Changes adn Implementation Details as Summary topics
+   3. Selecting SRE.ai Salesforce 1.0 as an AI model
+
+<figure><img src="../.gitbook/assets/summarize-change-step.png" alt="" width="563"><figcaption></figcaption></figure>
+
+### Update Jira issue after deployment
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcpWdjMREovieRd2MiMuc8iluIBHUgQlpPJzDDOm529K7KlVEn0H2rJfyJiZCNhxFXUe-Z4e6gTf13lJCUti_XOY-dLv9vdjJaBeuYnmaLS90Xyzrjktms18f9HJcsZ1o1-pEKk6A?key=KGRvWmZl-fuCdLy1wb0cBoXd" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -45,7 +124,7 @@ Teams using Jira to track release readiness and QA coordination.
 
 **Trigger:**
 
-* A Collection deploys
+A Collection deploys.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 11.47.12 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -55,38 +134,6 @@ Teams using Jira to track release readiness and QA coordination.
 2. Add a comment linking the deployment record or Collection ID.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 11.46.50 AM.png" alt="" width="375"><figcaption></figcaption></figure>
-
-### \[Example]
-
-**Goal:**\
-\[Text goes here]
-
-**Best for:**\
-\[Text goes here]
-
-**Trigger:**
-
-* \[Text goes here]
-
-**Steps:**
-
-1. \[Text goes here]
-
-### \[Example]
-
-**Goal:**\
-\[Text goes here]
-
-**Best for:**\
-\[Text goes here]
-
-**Trigger:**
-
-* \[Text goes here]
-
-**Steps:**
-
-1. \[Text goes here]
 
 ### \[Example]
 
