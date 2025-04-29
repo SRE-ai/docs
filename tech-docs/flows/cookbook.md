@@ -140,10 +140,10 @@ A Collection deploys.
 <figure><img src="../.gitbook/assets/update-collection-flow.png" alt=""><figcaption></figcaption></figure>
 
 **Goal:**\
-\[Text goes here]
+Automatically keep Collections in sync with active Jira issues by adding relevant issues when created or updated, and promptly removing them when conditions change. Ensure Collection reflect only current, actionable work.
 
 **Best for:**\
-\[Text goes here]
+Teams managing dynamic workspaces who want to automate the tracking of Sprint-related Jira issues without manually maintaining Collections.
 
 **Trigger:**
 
@@ -153,7 +153,8 @@ Triggered by a Jira issue that starts with "CRM" that is assigned to a spring an
 
 **Steps:**
 
-1. \[Text goes here]
+1. **Add to Collection** – The triggered issue is added to a relevant Collection
+2. **Remove from Collection** – The issue is subsequently removed, likely to clean up the Collection once the condition changes or is no longer relevant
 
 ### \[Example]
 
