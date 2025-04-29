@@ -24,7 +24,7 @@ Tweak them. Remix them. Make them yours.
 
 * **Pre-built Flow templates**:
   * Ready-to-deploy Flows that bundle common sequences of triggers and steps for Salesforce DevOps tasks (like promoting changes after a Pull Request is approved).
-* **Trigger and step combination outlines**:
+* **Trigger and Step combination outlines**:
   * Each recipe outlines a logical chain of automation: when a specific trigger occurs (e.g., a commit to a branch), a sequence of steps (e.g., create a pull request, promote changes, update a Jira issue) automatically follows.
 * **Customization guidance**:
   * Each recipe serves as a starting point. You can adapt and extend them by adding conditions, steps, or human-in-the-loop checkpoints to fit your specific DevOps needs.
@@ -56,7 +56,7 @@ The user manually activates the Trigger.
 
 **Steps:**
 
-1. Select a Source Instance for the Create Change step
+1. Select a Source Instance for the Create Change Step
 
 <figure><img src="../.gitbook/assets/create-change-step.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -68,7 +68,7 @@ The user manually activates the Trigger.
 
 <figure><img src="../.gitbook/assets/commit-step.png" alt="" width="357"><figcaption></figcaption></figure>
 
-4. Select a Connection and Destination branch for the Create Pull Request step
+4. Select a Connection and Destination branch for the Create Pull Request Step
 
 <figure><img src="../.gitbook/assets/create-pull-request-step.png" alt=""><figcaption></figcaption></figure>
 
