@@ -154,7 +154,12 @@ Triggered by a Jira issue that starts with "CRM" that is assigned to a spring an
 **Steps:**
 
 1. **Add to Collection** – The triggered issue is added to a relevant Collection
-2. **Remove from Collection** – The issue is subsequently removed, likely to clean up the Collection once the condition changes or is no longer relevant
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 7.39.59 PM.png" alt=""><figcaption></figcaption></figure>
+
+1. **Remove from Collection** – The issue is subsequently removed, likely to clean up the Collection once the condition changes or is no longer relevant
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 7.40.04 PM.png" alt=""><figcaption></figcaption></figure>
 
 ### \[Example]
 
