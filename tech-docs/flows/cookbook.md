@@ -77,10 +77,10 @@ The user manually activates the Trigger.
 <figure><img src="../.gitbook/assets/review-pull-request-flow.png" alt=""><figcaption></figcaption></figure>
 
 **Goal:**\
-\[Text goes here]
+Automatically review incoming pull requests to enforce best practices, streamline approvals, and generate AI-powered summaries of changes.
 
 **Best for:**\
-\[Text goes here]
+Teams looking to accelerate their pull request review process while maintaining quality, consistency, and visibility into key changes.
 
 **Trigger:**
 
