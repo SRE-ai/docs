@@ -138,7 +138,7 @@ The elements within the **Select change,** **Select Source Instance,** and **Sel
 
 <details>
 
-<summary>Click to learn more about the Promote step</summary>
+<summary><mark style="background-color:yellow;"><strong>Click to learn more about the Promote step</strong></mark></summary>
 
 The Promote step features nine customizable parameters:
 
@@ -189,7 +189,7 @@ The elements within the **Select Target Instance**, **Select Collection**, and *
 
 <details>
 
-<summary>Click to learn more about the Install Package step</summary>
+<summary><mark style="background-color:yellow;"><strong>Click to learn more about the Install Package step</strong></mark></summary>
 
 The Install Package step features nine customizable parameters:
 
@@ -215,7 +215,7 @@ The elements within the **Select Target Instance** and **Select DevHub Instance*
 
 <details>
 
-<summary>Click to learn more about the Create Package Version step</summary>
+<summary><mark style="background-color:yellow;"><strong>Click to learn more about the Create Package Version step</strong></mark></summary>
 
 The Create Package step features five main customizable parameters:
 
@@ -254,7 +254,7 @@ The Create Package Version step also features ten customizable parameters that a
 
 <details>
 
-<summary>Click to learn more about the Create Scratch Org step</summary>
+<summary><mark style="background-color:yellow;"><strong>Click to learn more about the Create Scratch Org step</strong></mark></summary>
 
 The Create Scratch Org step features five main customizable parameters:
 
@@ -336,7 +336,7 @@ The Create Pull Request step features four main customizable parameters:
 
 <details>
 
-<summary>Click to learn more about the Review Pull Request step</summary>
+<summary><mark style="background-color:yellow;"><strong>Click to learn more about the Review Pull Request step</strong></mark></summary>
 
 The Review Pull Request step features seven main customizable parameters:
 
