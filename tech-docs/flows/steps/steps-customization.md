@@ -72,18 +72,12 @@ The Add to Collection step features two customizable parameters:
 
 ## Remove from Collection step customization
 
-<details>
-
-<summary>Click to learn more about the Remove from Collection step</summary>
-
 The Remove from Collection step features two customizable parameters:
 
 * **Name**
 * **Description**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 5.10.09 PM.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</details>
 
 ***
 
@@ -126,10 +120,6 @@ The **Time range filter** parameter features six options:
 
 ## Commit step customization
 
-<details>
-
-<summary>Click to learn more about the Commit step</summary>
-
 The Commit step features five customizable parameters:
 
 * **Name**
@@ -141,8 +131,6 @@ The Commit step features five customizable parameters:
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 5.29.06 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 The elements within the **Select change,** **Select Source Instance,** and **Select Repository** parameters are impacted by the Salesforce environment that you are connected to.
-
-</details>
 
 ***
 
@@ -181,10 +169,6 @@ The **Conflict resolution** parameter offers four options:
 
 ## Deploy step customization
 
-<details>
-
-<summary>Click to learn more about the Deploy step</summary>
-
 The Deploy step features seven customizable parameters:
 
 * **Name**
@@ -198,8 +182,6 @@ The Deploy step features seven customizable parameters:
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 6.19.19 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 The elements within the **Select Target Instance**, **Select Collection**, and **Select Source** parameters are impacted by the Salesforce environment that you are connected to.
-
-</details>
 
 ***
 
@@ -302,6 +284,9 @@ The **Edition** parameter offers eight options:
 * Professional
 * Partner Developer
 * Partner Enterprise
+*
+
+    <figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 10.35.55 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 * Partner Group
 * Partner Professional
 
@@ -324,10 +309,6 @@ The Create Scratch Org  step also features six customizable parameters that are 
 
 ## Update Jira Issue step customization
 
-<details>
-
-<summary>Click to learn more about the Update Jira Issue step</summary>
-
 The Update Jira Issue step features three main customizable parameters:
 
 * **Name**
@@ -336,15 +317,9 @@ The Update Jira Issue step features three main customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 10.32.46 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-</details>
-
 ***
 
 ## Create Pull Request step customization
-
-<details>
-
-<summary>Click to learn more about the Create Pull Request step</summary>
 
 The Create Pull Request step features four main customizable parameters:
 
@@ -353,9 +328,7 @@ The Create Pull Request step features four main customizable parameters:
 * **Select Connection (**_**required**_**)**
 * **Destination branch**
 
-<figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 10.35.55 AM.png" alt="" width="375"><figcaption></figcaption></figure>
-
-</details>
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-28 at 7.00.12 PM.png" alt="" width="362"><figcaption></figcaption></figure>
 
 ***
 
@@ -394,10 +367,6 @@ The AI Model parameter offers six options:
 
 ## Pull Request Exception step customization
 
-<details>
-
-<summary>Click to learn more about the Pull Request Exception step</summary>
-
 The Pull Request Exception step features eight main customizable parameters:
 
 * **Name**
@@ -411,47 +380,9 @@ The Pull Request Exception step features eight main customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 11.02.22 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-</details>
-
 ***
 
 ## Summarize Change step customization
-
-<details>
-
-<summary>Click to learn more about the Summarize Change step </summary>
-
-The Summarize Change step features six main customizable parameters:
-
-* **Name**
-* **Description**
-* **Select Connection (**_**required**_**)**
-* **Summary topics** checklist
-* **AI Model**
-* **Additional Instructions**
-
-<figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 1.41.35 PM.png" alt="" width="375"><figcaption></figcaption></figure>
-
-### AI Model options
-
-The AI Model parameter offers six options:
-
-* SRE.ai Salesforce 1.0
-* Claude 3.5 Sonnet
-* Gemini 2.0 Flash
-* GPT 4o
-* o1
-* o3-mini
-
-</details>
-
-***
-
-## List Components step customization
-
-<details>
-
-<summary>Click to learn more about the List Components step</summary>
 
 The List Components step features three main customizable parameters:
 
@@ -461,15 +392,21 @@ The List Components step features three main customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 1.44.58 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-</details>
+***
+
+## List Components step customization
+
+The List Components step features three main customizable parameters:
+
+* **Name**
+* **Description**
+* **Select Connection (**_**required**_**)**
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 1.44.58 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ***
 
 ## Post Slack Message step customization
-
-<details>
-
-<summary>Click to learn more about the Post Slack Message step</summary>
 
 The Post Slack Message step features three main customizable parameters:
 
@@ -481,6 +418,3 @@ The Post Slack Message step features three main customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 1.49.40 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-
-
-</details>
