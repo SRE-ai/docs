@@ -18,7 +18,7 @@ layout:
 
 # Welcome
 
-SRE.ai revamps DevOps with **AI-driven assistance** that **streamlines deployment** and **saves time**.
+SRE.ai revamps DevOps with **AI-driven assistance** that **streamlines deployment, saves time,** and **boosts productivity**.
 
 ## Jump right in
 
