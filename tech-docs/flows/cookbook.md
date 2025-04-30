@@ -4,7 +4,7 @@
 
 ## Overview
 
-The SRE.ai Cookbook is your launchpad for building smarter, faster automations.
+The SRE.ai Flows Cookbook is your launchpad for building smarter, faster automations.
 
 Think of it as a collection of real-world recipes, showcasing how you can combine **Triggers** and **Steps** to streamline your DevOps workflows.
 
