@@ -56,19 +56,19 @@ The user manually activates the Trigger.
 
 **Steps:**
 
-1. Select a Source Instance for the Create Change Step
+1. Select a Source Instance for the Create Change step
 
 <figure><img src="../.gitbook/assets/create-change-step.png" alt="" width="563"><figcaption></figcaption></figure>
 
-2. Set the Scope and Time Range for the Import Changes Step
+2. Set the Scope and Time Range for the Import Changes step
 
 <figure><img src="../.gitbook/assets/import-changes-step.png" alt="" width="563"><figcaption></figcaption></figure>
 
-3. Select a Repository and Commit type for the Commit Step
+3. Select a Repository and Commit type for the Commit step
 
 <figure><img src="../.gitbook/assets/commit-step (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-4. Select a Connection and Destination branch for the Create Pull Request Step
+4. Select a Connection and Destination branch for the Create Pull Request step
 
 <figure><img src="../.gitbook/assets/create-pull-request-step.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -90,14 +90,14 @@ Triggered by Github
 
 **Steps:**
 
-1. Edit the Pull Request Exception Step to Check for Skip Test by:
+1. Edit the Pull Request Exception step to Check for Skip Test by:
    1. Selecting a Connection
    2. Labelling the Pull Request Action as "Skip Test"
    3. Setting the Criteria to Exclude your selected Types
 
 <figure><img src="../.gitbook/assets/check-for-skip-test-step.png" alt=""><figcaption></figcaption></figure>
 
-2. Edit the Pull Request Exception Step to Check for Skip Reviews by:
+2. Edit the Pull Request Exception step to Check for Skip Reviews by:
    1. Selecting a Connection
    2. Labelling the Pull Request Action as "Skip Reviews"
    3. Turning the Auto Approve toggle on
@@ -105,7 +105,7 @@ Triggered by Github
 
 <figure><img src="../.gitbook/assets/check-for-skip-reviews-step.png" alt="" width="563"><figcaption></figcaption></figure>
 
-3. Edit the Summarize Change Step by:
+3. Edit the Summarize Change step by:
    1. Selecting a Connection
    2. Selecting Key Changes adn Implementation Details as Summary topics
    3. Selecting SRE.ai Salesforce 1.0 as an AI model
@@ -130,8 +130,7 @@ A Collection deploys.
 
 **Steps:**
 
-1. Update the related Jira Issue (e.g., transition status to "Deployed to QA" or "Ready for Testing").
-   1. Add a comment linking the deployment record or Collection ID.
+1. Edit the Update Jira Issue step to update the issue's status as QA
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 11.46.50 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -157,7 +156,7 @@ Triggered by a Jira issue that starts with "CRM" that is assigned to a spring an
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 7.39.59 PM.png" alt=""><figcaption></figcaption></figure>
 
-1. **Remove from Collection** – The issue is subsequently removed, likely to clean up the Collection once the condition changes or is no longer relevant
+1. **Remove from Collection -** The issue is subsequently removed, likely to clean up the Collection once the condition changes or is no longer relevant
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 7.40.04 PM.png" alt=""><figcaption></figcaption></figure>
 
