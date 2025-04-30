@@ -159,11 +159,11 @@ Edit the Webhook Trigger to activate when a Jira issue that starts with "CRM" is
 
 **Steps:**
 
-1. **Add to Collection** – The triggered issue is added to a relevant Collection
+1. Set up an Add to Collection Ste&#x70;**.** The Add to Collection Step adds the relevant Jira issue to a relevant Collection
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 7.39.59 PM.png" alt=""><figcaption></figcaption></figure>
 
-1. **Remove from Collection -** The issue is subsequently removed, likely to clean up the Collection once the condition changes or is no longer relevant
+2. Set up a [Remove from Collection Step](#user-content-fn-1)[^1]. The Remove from Collection Step removes the relevant Jira issue to clean up the Collection once the condition changes or is no longer relevant
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 7.40.04 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -217,3 +217,6 @@ Edit the Webhook Trigger to activate when a Jira issue that starts with "CRM" is
 
 1. \[Text goes here]
 
+
+
+[^1]: 
