@@ -38,10 +38,12 @@ Tweak them. Remix them. Make them yours.
 
 <figure><img src="../.gitbook/assets/commit-latest.png" alt="" width="375"><figcaption></figcaption></figure>
 
-**Goal:**\
+#### **Goal:**
+
 Quickly package and commit the latest changes from your Salesforce environment, creating a pull request for review.
 
-**Best for:**\
+#### **Best for:**
+
 Teams that want to simply the commit process, maintain clean version control, and accelerate deployment pipelines by bundling:
 
 * Change tracking
@@ -49,13 +51,13 @@ Teams that want to simply the commit process, maintain clean version control, an
 * Commits
 * PR creation
 
-**Trigger:**
+#### **Trigger setup:**
 
 The user manually activates the Trigger.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 4.13.47 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-**Steps:**
+#### **Steps setup:**
 
 1. Select a Source Instance for the Create Change step
 
@@ -77,19 +79,21 @@ The user manually activates the Trigger.
 
 <figure><img src="../.gitbook/assets/review-pull-request-flow.png" alt=""><figcaption></figcaption></figure>
 
-**Goal:**\
+#### **Goal:**
+
 Automatically review incoming pull requests to enforce best practices, streamline approvals, and generate AI-powered summaries of changes.
 
-**Best for:**\
+#### **Best for:**
+
 Teams looking to accelerate their pull request review process while maintaining quality, consistency, and visibility into key changes.
 
-**Trigger:**
+#### **Trigger setup:**
 
-Triggered by Github
+Github activates the Trigger
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 5.26.23 PM.png" alt=""><figcaption></figcaption></figure>
 
-**Steps:**
+#### **Steps setup:**&#x20;
 
 1. Edit the Pull Request Exception step to Check for Skip Test by:
    1. Selecting a Connection
@@ -117,15 +121,17 @@ Triggered by Github
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcpWdjMREovieRd2MiMuc8iluIBHUgQlpPJzDDOm529K7KlVEn0H2rJfyJiZCNhxFXUe-Z4e6gTf13lJCUti_XOY-dLv9vdjJaBeuYnmaLS90Xyzrjktms18f9HJcsZ1o1-pEKk6A?key=KGRvWmZl-fuCdLy1wb0cBoXd" alt="" width="375"><figcaption></figcaption></figure>
 
-**Goal:**\
+#### **Goal:**
+
 After successfully deploying a Collection, automatically update the corresponding Jira ticket to reflect the deployment status.
 
-**Best for:**\
+#### **Best for:**
+
 Teams using Jira to track release readiness and QA coordination.
 
-**Trigger:**
+#### **Trigger:**
 
-A Collection deploys.
+The deployment of a collection activates the trigger
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 11.47.12 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
