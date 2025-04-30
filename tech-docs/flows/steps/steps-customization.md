@@ -6,7 +6,7 @@ description: Learn about the customizable parameters in each Step
 
 ## Overview
 
-SRE.ai offers eighteen Step types:
+SRE.ai offers eighteen step types:
 
 * [Create Change](steps-customization.md#create-change-step-customization)
 * [Create Collection](steps-customization.md#create-collection-step-customization)
@@ -27,7 +27,7 @@ SRE.ai offers eighteen Step types:
 * [List Components](steps-customization.md#list-components-step-customization)
 * [Post a Slack Message](steps-customization.md#post-slack-message-step-customization)
 
-Read below to learn about the parameters that can be customized within each Step.
+Read below to learn about the parameters that can be customized within each step.
 
 ***
 
@@ -85,7 +85,7 @@ The Remove from Collection step features two customizable parameters:
 
 <details>
 
-<summary>Click to learn more about the Import Changes step</summary>
+<summary><mark style="background-color:yellow;">Click to learn more about the Import Changes step</mark></summary>
 
 The Import Changes step features six customizable parameters:
 
@@ -98,7 +98,7 @@ The Import Changes step features six customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 5.12.58 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-The elements within the **Select Change** and **Select Source Instance** parameters are impacted by the Salesforce environment that you are connected to.
+The elements within the **Select Change** and **Select Source Instance** parameters are impacted by the environment you are connected to.
 
 The **Changes filter** parameter features two options:
 
@@ -130,7 +130,7 @@ The Commit step features five customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 5.29.06 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-The elements within the **Select change,** **Select Source Instance,** and **Select Repository** parameters are impacted by the Salesforce environment that you are connected to.
+The elements within the **Select change,** **Select Source Instance,** and **Select Repository** parameters are impacted by the environment you are connected to.
 
 ***
 
@@ -154,7 +154,7 @@ The Promote step features nine customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 6.05.48 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-The elements within the **Select Target Instance** and **Select Change** parameters are impacted by the Salesforce environment that you are connected to.
+The elements within the **Select Target Instance** and **Select Change** parameters are impacted by the environment that you are connected to.
 
 The **Conflict resolution** parameter offers four options:
 
@@ -181,7 +181,7 @@ The Deploy step features seven customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 6.19.19 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-The elements within the **Select Target Instance**, **Select Collection**, and **Select Source** parameters are impacted by the Salesforce environment that you are connected to.
+The elements within the **Select Target Instance**, **Select Collection**, and **Select Source** parameters are impacted by the environment you are connected to.
 
 ***
 
@@ -205,7 +205,7 @@ The Install Package step features nine customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 6.21.28 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-The elements within the **Select Target Instance** and **Select DevHub Instance** parameters are impacted by the Salesforce environment that you are connected to.
+The elements within the **Select Target Instance** and **Select DevHub Instance** parameters are impacted by the environment you are connected to.
 
 </details>
 
@@ -227,7 +227,7 @@ The Create Package step features five main customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 7.09.26 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-The elements within the **Select DevHub Instance** parameter are impacted by the Salesforce environment that you are connected to.
+The elements within the **Select DevHub Instance** parameter are impacted by the environment you are connected to.
 
 ### Hidden parameters
 
@@ -272,7 +272,7 @@ The Create Scratch Org step features five main customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 7.22.31 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-The elements within the **Select DevHub Instance** parameter are impacted by the Salesforce environment that you are connected to.
+The elements within the **Select DevHub Instance** parameter are impacted by the environment you are connected to.
 
 ### Edition parameter options
 
