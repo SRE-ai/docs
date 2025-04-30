@@ -25,9 +25,10 @@ Tweak them. Remix them. Make them yours.
 * **Pre-built Flow templates**:
   * Ready-to-deploy Flows that bundle common sequences of triggers and steps for Salesforce DevOps tasks (like promoting changes after a Pull Request is approved).
 * **Trigger and Step combination outlines**:
-  * Each recipe outlines a logical chain of automation: when a specific trigger occurs (e.g., a commit to a branch), a sequence of steps (e.g., create a pull request, promote changes, update a Jira issue) automatically follows.
+  * Each recipe details how to set up the given Flow's Triggers and Steps
 * **Customization guidance**:
-  * Each recipe serves as a starting point. You can adapt and extend them by adding conditions, steps, or human-in-the-loop checkpoints to fit your specific DevOps needs.
+  * Each recipe serves as a starting point.&#x20;
+  * You can adapt and extend them by adding conditions, steps, or human-in-the-loop checkpoints to fit your specific DevOps needs.
 
 ***
 
@@ -130,7 +131,7 @@ A Collection deploys.
 
 **Steps:**
 
-1. Edit the Update Jira Issue step to update the issue's status as QA
+1. The Update Jira Issue step updates the issue's status as QA
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 11.46.50 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
