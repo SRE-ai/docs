@@ -53,7 +53,7 @@ Teams that want to simply the commit process, maintain clean version control, an
 
 #### **Trigger setup:**
 
-The user manually activates the Trigger.
+Set up a Manual Trigger
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 4.13.47 PM.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -89,7 +89,7 @@ Teams looking to accelerate their pull request review process while maintaining 
 
 #### **Trigger setup:**
 
-Github activates the Trigger
+Edit the Webhook Trigger to activate with GitHub
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 5.26.23 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -131,13 +131,13 @@ Teams using Jira to track release readiness and QA coordination.
 
 #### **Trigger:**
 
-The deployment of a collection activates the trigger
+Edit the Promote Trigger to activate when a collection is deployed
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 11.47.12 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 **Steps:**
 
-1. The Update Jira Issue step updates the issue's status as QA
+1. Edit the Update Jira Issue Step's mapping to update the relevant issue's status as QA
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 11.46.50 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -153,7 +153,7 @@ Teams managing dynamic workspaces who want to automate the tracking of Sprint-re
 
 **Trigger:**
 
-Triggered by a Jira issue that starts with "CRM" that is assigned to a spring and is newly created or updated.
+Edit the Webhook Trigger to activate when a Jira issue that starts with "CRM" is assigned to a sprint and is newly created or updated
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 7.14.32 PM.png" alt="" width="353"><figcaption></figcaption></figure>
 
