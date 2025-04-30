@@ -18,7 +18,7 @@ layout:
 
 # Welcome
 
-SRE.ai  revamps DevOps with **AI-driven assistance** that **streamlines deployment** and **saves time**.
+SRE.ai revamps DevOps with **AI-driven assistance** that **streamlines deployment** and **saves time**.
 
 ## Jump right in
 
@@ -28,7 +28,7 @@ SRE.ai  revamps DevOps with **AI-driven assistance** that **streamlines deployme
 
 ## **What is SRE.ai?**
 
-SRE.ai is a cross-platform application for Salesforce developers, analysts, and release managers to work on and collaborate on their next feature, project, or release within a single platform.
+SRE.ai is a cross-platform application that lets DevOps engineers, analysts, and release managers work on and collaborate on their next feature, project, or release within a single platform.
 
 SRE.ai enables you to package metadata, permissions, and data changes in simple constructs and commit, merge, build, and release those changes in a controlled manner.&#x20;
 
