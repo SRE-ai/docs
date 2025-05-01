@@ -28,11 +28,11 @@ layout:
 
 ## **What is SRE.ai?**
 
-SRE.ai is a cross-platform application that lets DevOps engineers, analysts, and release managers coordinate their next feature, project, or release within a single platform.
+SRE.ai is a cross-platform application that lets DevOps engineers, analysts, and release managers coordinate their next feature, project, or release with a single tool.
 
 SRE.ai enables you to package metadata, permissions, and data changes in constructs that streamline:
 
-* Commiting
+* Committing
 * Merging
 * Building
 * Releasing&#x20;
