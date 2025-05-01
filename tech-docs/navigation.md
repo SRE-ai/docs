@@ -8,9 +8,7 @@ icon: computer-mouse-scrollwheel
 
 ## **Overview**
 
-SRE.ai is designed to streamline the full DevOps lifecycle across three pillars: **Development**, **Deployment**, and **Maintenance**.&#x20;
-
-The sidebar organizes core tools and workflows that map directly to this lifecycle.
+SRE.ai's sidebar organizes core tools and workflows that map directly to this lifecycle.
 
 ***
 
