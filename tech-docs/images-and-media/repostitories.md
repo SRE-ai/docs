@@ -25,7 +25,7 @@ SRE.ai supports three source code formats:
 The Source and Extended Source formats facilitate managing the source code and making changes at every stage of the development process.
 
 {% hint style="info" %}
-IMPORTANT: The 'sfdx-project.json' file must be present at the root of the source folder for both the Source format and Extended Source format. Both formats adhere to [the Salesforce DX Project Configuration guidelines](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm).\
+**IMPORTANT:** The 'sfdx-project.json' file must be present at the root of the source folder for both the Source format and Extended Source format. Both formats adhere to [the Salesforce DX Project Configuration guidelines](https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_ws_config.htm).\
 \
 The 'packageDirectories' section of the 'sfdx-project.json' file feeds into the Package Directory options when performing the commits and promotions.
 {% endhint %}
