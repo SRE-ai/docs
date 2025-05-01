@@ -6,7 +6,7 @@ description: Learn how to track and manage changes in SRE.ai.
 
 <figure><img src="../.gitbook/assets/Changes (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
-## Summary
+## Overview
 
 Usually, developing a new feature in Salesforce involves updating a range of metadata types and data. Moreover, there can be tasks and scripts involved. Using **Changes**, you can track the changes and instructions corresponding to every feature, big or small.
 
