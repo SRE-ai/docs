@@ -54,7 +54,7 @@ description: Learn how to set up SRE.ai in Slack.
 
 ***
 
-## SRE Web App Configuration
+## SRE.ai web app configuration
 
 1. Click **Manage \[your workspace]** in the SRE web application
 2. Select **Connections**
@@ -66,7 +66,7 @@ description: Learn how to set up SRE.ai in Slack.
 
 ***
 
-## SRE Web App Flow Configuration
+## SRE.ai web app Flow configuration
 
 ### Create a Flow
 
@@ -75,9 +75,9 @@ description: Learn how to set up SRE.ai in Slack.
 
 ### Configure the Flow
 
-1. Set the Trigger as a **Promote Trigger**
-2. Add the  **Post Slack Message Step**
+1. Set the Trigger as a [**Promote Trigger**](triggers/triggers-customization.md#promote-trigger-customization)
+2. Add the [**Post a Slack Message Step**](steps/steps-customization.md#post-slack-message-step-customization)
    1. Select **Slack** as the **Connection**
    2. Set the channel as [the private channel you previously named](slack-flow.md#slack-channel-setup)
 3. Click **Save**
-4. Click **Activate flow**
+4. Click [**Activate flow**](./#create-new-flow)
