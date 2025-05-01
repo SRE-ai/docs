@@ -35,7 +35,7 @@ SRE.ai offers six different Triggers:
 
 ***
 
-## How Triggers work in SRE.ai
+## How Triggers work
 
 Click on a Trigger in the Flow builder to open the View Trigger panel.
 
