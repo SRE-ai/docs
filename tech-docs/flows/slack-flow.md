@@ -32,7 +32,7 @@ description: Learn how to set up SRE.ai in Slack.
 1. Enter the **App Details** screen
 2. Select **OAuth & Permissions**
 3. Scroll to the **Scopes** section
-4. Add the **OAuth Scope:** "chat:write"
+4. Add the following **OAuth Scope:** "chat:write"
 5. Scroll to the top of the **OAuth Token** section
 6. Click **Install to \[your workspace name].**
 7. Click **Allow**
@@ -44,9 +44,11 @@ description: Learn how to set up SRE.ai in Slack.
 
 1. Create a private Slack channel
 
-* IMPORTANT: Take note of the Slack channel's name
+{% hint style="info" %}
+**IMPORTANT:** Take note of the Slack channel's name
+{% endhint %}
 
-2. Invite the bot to your channel
+2. Invite the SRE bot to your channel
    1. Type "@SRE" in the chat
    2. Accept Slack's prompt to invite the bot
 
@@ -55,7 +57,7 @@ description: Learn how to set up SRE.ai in Slack.
 ## SRE Web App Configuration
 
 1. Click **Manage \[your workspace]** in the SRE web application
-2. Head to **Connections**
+2. Select **Connections**
 3. Click **Add Connection**
 4. Select **Slack** as the **connection type**
 5. Name the connection **"Slack"**
@@ -73,9 +75,9 @@ description: Learn how to set up SRE.ai in Slack.
 
 ### Configure the Flow
 
-1. Set the trigger to **Promote**
-2. Add **"Post Slack Message"** as a Flow element
-3. Select **Slack** as the **Connection**
-4. Set the channel as [the private channel you previously named](slack-flow.md#slack-channel-setup)
-5. Click **Save**
-6. Click **Activate flow**
+1. Set the Trigger as a **Promote Trigger**
+2. Add the  **Post Slack Message Step**
+   1. Select **Slack** as the **Connection**
+   2. Set the channel as [the private channel you previously named](slack-flow.md#slack-channel-setup)
+3. Click **Save**
+4. Click **Activate flow**

@@ -6,7 +6,7 @@
 
 The SRE.ai Flows Cookbook is your launchpad for building automations.
 
-Think of it as a collection of real-world recipes, showcasing how you can combine **Triggers** and **Steps** to streamline your DevOps workflows.
+Think of it as a collection of real-world recipes, showcasing how you can combine Triggers and Steps to streamline your DevOps workflows.
 
 Unlike traditional cookbooks packed with code and tests, the Flows Cookbook highlights the intuitive nature of automation.
 
