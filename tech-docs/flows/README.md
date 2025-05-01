@@ -15,7 +15,7 @@ Flows integrate various applications and trigger criteria to streamline operatio
 
 Flows take a declarative approach.&#x20;
 
-With Flows, you define what you want to achieve without worrying about the technical details of how it gets done.
+With Flows, you define your goals without worrying about the technical details of how they are achieved.
 
 Flows make it accessible for users of all technical backgrounds and reduce the learning curve significantly.
 
@@ -88,4 +88,10 @@ Click **the Activation button** to activate your Flow after you have arranged yo
 
 <figure><img src="../.gitbook/assets/The Activate Button.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Flows will take care of the rest, ensuring your processes run smoothly and efficiently.
+Flows will take care of the rest, ensuring your processes run smoothly and efficiently.'
+
+### Activity
+
+Click the Activity tab in the Flow builder to view the history of the given Flow
+
+<figure><img src="../.gitbook/assets/flows-activity-tab.png" alt=""><figcaption></figcaption></figure>
