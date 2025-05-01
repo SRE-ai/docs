@@ -18,7 +18,7 @@ layout:
 
 # Welcome
 
-SRE.ai revamps DevOps with **AI-driven assistance** that **streamlines deployment, saves time,** and **boosts productivity**.
+**SRE.ai revamps DevOps with AI-driven assistance** that **streamlines deployment, saves time,** and **boosts productivity**.
 
 ## Jump right in
 
@@ -28,9 +28,14 @@ SRE.ai revamps DevOps with **AI-driven assistance** that **streamlines deploymen
 
 ## **What is SRE.ai?**
 
-SRE.ai is a cross-platform application that lets DevOps engineers, analysts, and release managers work on and collaborate on their next feature, project, or release within a single platform.
+SRE.ai is a cross-platform application that lets DevOps engineers, analysts, and release managers coordinate their next feature, project, or release within a single platform.
 
-SRE.ai enables you to package metadata, permissions, and data changes in simple constructs and commit, merge, build, and release those changes in a controlled manner.&#x20;
+SRE.ai enables you to package metadata, permissions, and data changes in constructs that streamline:
+
+* Commiting
+* Merging
+* Building
+* Releasing&#x20;
 
 The generated data is saved locally and natively in Salesforce.
 
@@ -44,17 +49,18 @@ Salesforce is a robust platform that allows for customization through configurat
 
 However, moving a new feature from development to production can be challenging, especially when multiple teams work on different features and projects concurrently.
 
-SRE.ai simplifies the DevOps process by streamlining the management of multiple features, projects, and environments, allowing users focus on more critical tasks.
+SRE.ai simplifies the DevOps process by streamlining the management of multiple features, projects, and environments, letting teams focus on the actual work, not the busy work.
 
 ***
 
 ## **How does** SRE.ai **work?**
 
-SRE.ai aims to simplify change and release management in Salesforce by addressing common pain points such as:
+SRE.ai creates automated connections between a platform like Salesforce and applications such as Slack, GitHub, and Jira.
+
+SRE.ai creates coherent tool silos for fragmented processes, such as:
 
 * Tracking changes&#x20;
 * Committing code&#x20;
 * Merging changes
-* Building applications.
 
 SRE.ai offers flexibility by allowing teams to choose the tools, processes, and strategies that work best for them.
