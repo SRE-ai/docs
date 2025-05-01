@@ -29,9 +29,12 @@ Triggers initiate a Flow.
 
 Triggers allow you to initiate a Flow exactly when needed, whether it's:
 
-* After a commit,&#x20;
-* After a change in a Jira issue
-* During a scheduled time.
+* After a manual activation
+* After a change in an app such as Jira
+* During a scheduled time
+* After a commit&#x20;
+* After a promotion
+* After a deployment
 
 Learn more about Triggers in[ SRE.ai's Triggers documentation](triggers/).
 
@@ -41,7 +44,7 @@ Steps define a Flow's execution.
 
 Steps let you arrange the string of instances and dependencies that will occur after a Trigger.
 
-Moreover, you can define specific conditions and criteria to keep a Flow's execution smooth and error-free.
+Moreover, you can define specific conditions and criteria to keep a Step's execution smooth and error-free.
 
 Learn more about Steps in [SRE.ai's Steps documentation](steps/).
 
@@ -66,17 +69,17 @@ Learn more about example Flows by reading [SRE.AI's Flows Cookbook documentation
 
 ### **Main page**
 
-<figure><img src="../.gitbook/assets/FlowsLanding.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/the-flows-main-page.png" alt=""><figcaption></figcaption></figure>
 
 By default, the Flows page only displays active Flows.
 
-Click **the "All" button** to view every Flow in your system.
+**Click the "All" button** to view every Flow in your system.
 
-Click on an existing Flow to view or edit the Flow.
+**Click on an existing Flow** to view or edit the Flow.
 
 ### Create new Flow
 
-Click **the "New" button** in the main page to name and create a new Flow.
+**Click the "New" button** in the main page to name and create a new Flow.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-25 at 3.55.22 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -88,10 +91,10 @@ Click **the Activation button** to activate your Flow after you have arranged yo
 
 <figure><img src="../.gitbook/assets/The Activate Button.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Flows will take care of the rest, ensuring your processes run smoothly and efficiently.'
+Flows will take care of the rest, ensuring your processes run smoothly and efficiently.
 
 ### Activity
 
-Click the Activity tab in the Flow builder to view the history of the given Flow
+Click the Activity tab in the Flow Builder to view the history of the given Flow.
 
 <figure><img src="../.gitbook/assets/flows-activity-tab.png" alt=""><figcaption></figcaption></figure>
