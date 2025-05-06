@@ -59,19 +59,19 @@ Set up a Manual Trigger
 
 #### **Steps setup:**
 
-1. Select a Source Instance for the Create Change step
+1. Select a Source Instance for the [Create Change Step](steps/steps-customization.md#create-change-step-customization)
 
 <figure><img src="../.gitbook/assets/create-change-step.png" alt="" width="563"><figcaption></figcaption></figure>
 
-2. Set the Scope and Time Range for the Import Changes step
+2. Set the Scope and Time Range for the [Import Changes Step](steps/steps-customization.md#import-changes-step-customization)
 
 <figure><img src="../.gitbook/assets/import-changes-step.png" alt="" width="563"><figcaption></figcaption></figure>
 
-3. Select a Repository and Commit type for the Commit step
+3. Select a Repository and Commit type for the [Commit Step](steps/steps-customization.md#commit-step-customization)
 
 <figure><img src="../.gitbook/assets/commit-step (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-4. Select a Connection and Destination branch for the Create Pull Request step
+4. Select a Connection and Destination branch for the [Create Pull Request Step](steps/steps-customization.md#create-pull-request-step-customization)
 
 <figure><img src="../.gitbook/assets/create-pull-request-step.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -97,14 +97,14 @@ Edit the Webhook Trigger to activate with GitHub
 
 #### **Steps setup:**&#x20;
 
-1. Edit the Pull Request Exception step to Check for Skip Test by:
+1. Edit the [Pull Request Exception Step](steps/steps-customization.md#pull-request-exception-step-customization) to Check for Skip Test by:
    1. Selecting a Connection
    2. Labelling the Pull Request Action as "Skip Test"
    3. Setting the Criteria to Exclude your selected Types
 
 <figure><img src="../.gitbook/assets/check-for-skip-test-step.png" alt=""><figcaption></figcaption></figure>
 
-2. Edit the Pull Request Exception step to Check for Skip Reviews by:
+2. Edit the Pull Request Exception Step to Check for Skip Reviews by:
    1. Selecting a Connection
    2. Labelling the Pull Request Action as "Skip Reviews"
    3. Turning the Auto Approve toggle on
@@ -112,9 +112,9 @@ Edit the Webhook Trigger to activate with GitHub
 
 <figure><img src="../.gitbook/assets/check-for-skip-reviews-step.png" alt="" width="563"><figcaption></figcaption></figure>
 
-3. Edit the Summarize Change step by:
+3. Edit the [Summarize Change Step](steps/steps-customization.md#summarize-change-step-customization) by:
    1. Selecting a Connection
-   2. Selecting Key Changes adn Implementation Details as Summary topics
+   2. Selecting Key Changes and Implementation Details as Summary topics
    3. Selecting SRE.ai Salesforce 1.0 as an AI model
 
 <figure><img src="../.gitbook/assets/summarize-change-step.png" alt="" width="563"><figcaption></figcaption></figure>
@@ -141,7 +141,7 @@ Edit the Promote Trigger to activate when a collection is deployed
 
 **Steps:**
 
-1. Edit the Update Jira Issue Step's mapping to update the relevant issue's status as QA
+1. Edit the [Update Jira Issue Step's](steps/steps-customization.md#update-jira-issue-step-customization) mapping to update the relevant issue's status as QA
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 11.46.50 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
