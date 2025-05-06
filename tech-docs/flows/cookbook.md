@@ -167,56 +167,6 @@ Edit the Webhook Trigger to activate when a Jira issue that starts with "CRM" is
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 7.40.04 PM.png" alt=""><figcaption></figcaption></figure>
 
-### Track changes
-
-<figure><img src="../.gitbook/assets/track-changes-flow.png" alt=""><figcaption></figcaption></figure>
-
-**Goal:**\
-\[Text goes here]
-
-**Best for:**\
-\[Text goes here]
-
-**Trigger:**
-
-* \[Text goes here]
-
-**Steps:**
-
-1. \[Text goes here]
-
-### \[Example]
-
-**Goal:**\
-\[Text goes here]
-
-**Best for:**\
-\[Text goes here]
-
-**Trigger:**
-
-* \[Text goes here]
-
-**Steps:**
-
-1. \[Text goes here]
-
-### \[Example]
-
-**Goal:**\
-\[Text goes here]
-
-**Best for:**\
-\[Text goes here]
-
-**Trigger:**
-
-* \[Text goes here]
-
-**Steps:**
-
-1. \[Text goes here]
-
 
 
 [^1]: 
