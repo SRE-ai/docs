@@ -75,6 +75,8 @@ Set up a Manual Trigger
 
 <figure><img src="../.gitbook/assets/create-pull-request-step.png" alt="" width="563"><figcaption></figcaption></figure>
 
+***
+
 ### Review pull request
 
 <figure><img src="../.gitbook/assets/review-pull-request-flow.png" alt=""><figcaption></figcaption></figure>
@@ -117,6 +119,8 @@ Edit the Webhook Trigger to activate with GitHub
 
 <figure><img src="../.gitbook/assets/summarize-change-step.png" alt="" width="563"><figcaption></figcaption></figure>
 
+***
+
 ### Update Jira issue after deployment
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcpWdjMREovieRd2MiMuc8iluIBHUgQlpPJzDDOm529K7KlVEn0H2rJfyJiZCNhxFXUe-Z4e6gTf13lJCUti_XOY-dLv9vdjJaBeuYnmaLS90Xyzrjktms18f9HJcsZ1o1-pEKk6A?key=KGRvWmZl-fuCdLy1wb0cBoXd" alt="" width="375"><figcaption></figcaption></figure>
@@ -141,6 +145,8 @@ Edit the Promote Trigger to activate when a collection is deployed
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 11.46.50 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
+***
+
 ### Update collection
 
 <figure><img src="../.gitbook/assets/update-collection-flow.png" alt=""><figcaption></figcaption></figure>
@@ -159,14 +165,11 @@ Edit the Webhook Trigger to activate when a Jira issue that starts with "CRM" is
 
 **Steps:**
 
-1. Set up an Add to Collection Ste&#x70;**.** The Add to Collection Step adds the relevant Jira issue to a relevant Collection
+1. Set up an [Add to Collection Step](steps/steps-customization.md#add-to-collection-step-customization)**.** The Add to Collection Step adds the relevant Jira issue to a relevant Collection
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 7.39.59 PM.png" alt=""><figcaption></figcaption></figure>
 
-2. Set up a [Remove from Collection Step](#user-content-fn-1)[^1]. The Remove from Collection Step removes the relevant Jira issue to clean up the Collection once the condition changes or is no longer relevant
+2. Set up a [Remove from Collection Step](steps/steps-customization.md#remove-from-collection-step-customization). The Remove from Collection Step removes the relevant Jira issue to clean up the Collection once the condition changes or is no longer relevant
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 7.40.04 PM.png" alt=""><figcaption></figcaption></figure>
 
-
-
-[^1]: 
