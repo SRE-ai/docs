@@ -86,7 +86,7 @@ Learn more about Flows in SRE.ai's Flows documentation.
 
 View a detailed log of actions taken across the platform.
 
-Activities show who did what, when, including:&#x20;
+Activities show who did what and when, including:&#x20;
 
 * Promotions
 * Commits
