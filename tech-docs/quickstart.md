@@ -5,9 +5,9 @@ icon: flag-checkered
 
 # Getting Started
 
-To get started, download and install the latest .dmg (for Mac) or .exe (for Windows) from [the releases](https://github.com/support-infinit/infinit-desktop/releases).
+Download and install the latest .dmg (for Mac) or .exe (for Windows) from the releases to get started.
 
-Log in with your email address to receive a secured token via email.
+Log in with your email address to receive a secure token via email.
 
 Each login requires this token, and the application will stay connected until you log out.
 
@@ -15,8 +15,8 @@ The "LOCAL (offline)" workspace is available by default and is a good starting p
 
 The LOCAL workspace gives you access to all the features of SRE.ai for individual use, except for collaboration, which requires [creating or being invited to a workspace.](quickstart.md#setting-up-workspace)
 
-{% hint style="info" %}
-I**MPORTANT:** [Git](https://git-scm.com/downloads) must be pre-installed for all functions to work correctly.
+{% hint style="warning" %}
+**IMPORTANT:** [Git](https://git-scm.com/downloads) must be pre-installed for all functions to work correctly.
 {% endhint %}
 
 ***
@@ -29,7 +29,7 @@ A workspace is a collaborative space where team members can work together. As an
 
 To invite team members to the workspace, add their email addresses as members.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **IMPORTANT:** You must have the **Manage Workspace** permission as the administrator to perform these tasks.
 {% endhint %}
 
