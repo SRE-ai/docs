@@ -129,7 +129,7 @@ Promote triggers feature three customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 4.42.05 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Conditions for the Promote trigger adhere to the same customization parameters as conditions for Commit triggers.
+Conditions for the Promote trigger adhere to the same customization parameters as [conditions for Commit triggers](triggers-customization.md#click-to-learn-more-about-the-commit-trigger).
 
 ***
 
