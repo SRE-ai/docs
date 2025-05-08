@@ -96,7 +96,7 @@ Use the Conditions parameter to arrange conditions for the commit.&#x20;
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 4.31.09 PM.png" alt=""><figcaption></figcaption></figure>
 
-A condition can be defined as being a value from one of six fields:
+A condition can be defined as a value from one of six fields:
 
 * Branch
 * Name&#x20;
@@ -129,7 +129,7 @@ Promote triggers feature three customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 4.42.05 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Conditions for Promote triggers are customized like [conditions for Commit triggers.](triggers-customization.md#conditions)
+Conditions for the Promote trigger adhere to the same customization parameters as conditions for Commit triggers.
 
 ***
 
@@ -138,3 +138,4 @@ Conditions for Promote triggers are customized like [conditions for Commit trigg
 The deployment trigger features one customizable parameter, a **Description.**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 4.41.40 PM.png" alt="" width="375"><figcaption></figcaption></figure>
+
