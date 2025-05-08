@@ -20,7 +20,7 @@ layout:
 
 **SRE.ai revamps DevOps with AI-driven assistance** that **streamlines workflows, saves time,** and **boosts productivity**.
 
-SRE.ai is designed to streamline the full DevOps lifecycle across three pillars: **Development**, **Deployment**, and **Maintenance**.&#x20;
+SRE.ai streamlines the DevOps lifecycle across three pillars: **Development**, **Deployment**, and **Maintenance**.&#x20;
 
 ## Jump right in
 
@@ -49,15 +49,17 @@ We built SRE.ai using Electron, which powers popular applications such as Visual
 
 Salesforce is a robust platform that allows for customization through configuration and code.&#x20;
 
-However, moving a new feature from development to production can be challenging, especially when multiple teams work on different features and projects concurrently.
+However, moving a new feature from development to production can be challenging, especially when multiple teams work concurrently on different features and projects.
 
-SRE.ai simplifies the DevOps process by streamlining the management of multiple features, projects, and environments, letting teams focus on the actual work, not the busy work.
+SRE.ai simplifies the DevOps process by streamlining the management of multiple features, projects, and environments.&#x20;
+
+SRE.ai allows teams to focus on the actual work, not the busy work.
 
 ***
 
 ## **How does** SRE.ai **work?**
 
-SRE.ai creates automated connections between a platform like Salesforce and applications such as Slack, GitHub, and Jira.
+SRE.ai creates automated connections between a platform like Salesforce and applications like Slack, GitHub, and Jira.
 
 SRE.ai creates coherent tool silos for fragmented processes, such as:
 
