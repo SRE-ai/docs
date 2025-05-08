@@ -45,6 +45,8 @@ Click **the Edit button** in the top right of the View Trigger panel to edit the
 
 <figure><img src="../../.gitbook/assets/EditTriggerHighlight.png" alt="" width="375"><figcaption></figcaption></figure>
 
-Each Trigger features its own customizable parameters.
+### Customization
+
+Each Trigger features customizable parameters.
 
 Learn more about the customizable parameters for each Trigger by reading [SRE.ai's Triggers customization documentation](triggers-customization.md).

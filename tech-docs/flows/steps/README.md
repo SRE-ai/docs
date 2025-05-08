@@ -57,4 +57,6 @@ Click **the Edit button** in the top right of the View Step panel to edit the St
 
 ### Customization
 
+Each Step features customizable parameters.
+
 Learn more about the customizable parameters for each Step by reading[ SRE.ai's Steps customization documentation](steps-customization.md).
