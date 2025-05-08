@@ -23,8 +23,6 @@ I**MPORTANT:** [Git](https://git-scm.com/downloads) must be pre-installed for al
 
 ## Setting up workspace
 
-Learn about the basics of a workspace, and how to install SRE.ai into the workspace.
-
 ### Workspace basics
 
 A workspace is a collaborative space where team members can work together. As an administrator, you can control each team member's permissions by turning certain access rights on or off.
@@ -37,7 +35,7 @@ To invite team members to the workspace, add their email addresses as members.
 
 <figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-To use the workspace, connect to a Salesforce environment with the SRE.ai packages installed. The Salesforce environment connected to the workspace is a remote connection for storing and synchronizing data from SRE.ai with other team members.\
+Connect to a Salesforce environment with the SRE.ai packages installed to use the workspace. The Salesforce environment connected to the workspace is a remote connection for storing and synchronizing data from SRE.ai with other team members.\
 \
 Each team member must connect to the remote Salesforce environment using their credentials.
 
