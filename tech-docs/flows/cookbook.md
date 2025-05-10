@@ -30,8 +30,6 @@ Tweak them. Remix them. Make them yours.
   * Each recipe serves as a starting point.&#x20;
   * You can adapt and extend them by adding conditions, steps, or human-in-the-loop checkpoints to fit your specific DevOps needs.
 
-***
-
 ## Example Cookbook Recipes
 
 ### Commit latest pull request
@@ -75,8 +73,6 @@ Set up a Manual Trigger
 
 <figure><img src="../.gitbook/assets/create-pull-request-step.png" alt="" width="563"><figcaption></figcaption></figure>
 
-***
-
 ### Review pull request
 
 <figure><img src="../.gitbook/assets/review-pull-request-flow.png" alt=""><figcaption></figcaption></figure>
@@ -119,8 +115,6 @@ Edit the Webhook Trigger to activate with GitHub
 
 <figure><img src="../.gitbook/assets/summarize-change-step.png" alt="" width="563"><figcaption></figcaption></figure>
 
-***
-
 ### Update Jira issue after deployment
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcpWdjMREovieRd2MiMuc8iluIBHUgQlpPJzDDOm529K7KlVEn0H2rJfyJiZCNhxFXUe-Z4e6gTf13lJCUti_XOY-dLv9vdjJaBeuYnmaLS90Xyzrjktms18f9HJcsZ1o1-pEKk6A?key=KGRvWmZl-fuCdLy1wb0cBoXd" alt="" width="375"><figcaption></figcaption></figure>
@@ -152,7 +146,7 @@ Edit the Promote Trigger to activate when a collection is deployed
 <figure><img src="../.gitbook/assets/update-collection-flow.png" alt=""><figcaption></figcaption></figure>
 
 **Goal:**\
-Automatically keep Collections in sync with active Jira issues by adding relevant issues when created or updated, and promptly removing them when conditions change. Ensure Collection reflect only current, actionable work.
+Automatically keep Collections in sync with active Jira issues by adding relevant issues when created or updated, and promptly removing them when conditions change. Ensure Collections reflect only current, actionable work.
 
 **Best for:**\
 Teams managing dynamic workspaces who want to automate the tracking of Sprint-related Jira issues without manually maintaining Collections.
