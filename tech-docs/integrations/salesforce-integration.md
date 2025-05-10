@@ -32,8 +32,6 @@ Please ignore the warning. We are working through the Security Review for the Ap
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfj64wUQtS3FoKiZjgIt0cqyZX8MGeWtMbZXoxoqYzeJ6VVxNGF3ntI0mfjE9nZqbvqk9P768WGEyXrwTgbP0PE7PpUl-nGsdMskhG4_0-p7dj5Jue7wAvW2pEZoV8HOK35_7jd?key=DkBAADFS-Ge2WW_jAdqd55hX" alt=""><figcaption></figcaption></figure>
 
-***
-
 ## Create a connected app in your org for GitHub actions
 
 Salesforce CLI requires a connected app in the org that you're authorizing.\
@@ -109,8 +107,6 @@ A connected app will enable you to integrate Salesforce CLI with Salesforce usin
 https://github.com/ACME/CRM/settings/installations/<installation id>
 ```
 
-***
-
 ## Setting up GitHub Action Secrets and Variables
 
 1. Select the **GitHub Repository Settings**
@@ -157,8 +153,6 @@ Value: RAMP
 Name: SRE\_USERNAME
 
 Value: \<User’s Email ID>
-
-***
 
 ## GitHub Action YAML
 
@@ -219,8 +213,6 @@ jobs:
             sh sre.sh promote -b "${{github.event.pull_request.head.ref}}" -i "prod" -r "ramp-tryout"
 
 ```
-
-***
 
 ## Create a Connected App in Your Org for SSO
 

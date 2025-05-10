@@ -19,8 +19,6 @@ The LOCAL workspace gives you access to all the features of SRE.ai for individua
 **IMPORTANT:** [Git](https://git-scm.com/downloads) must be pre-installed for all functions to work correctly.
 {% endhint %}
 
-***
-
 ## Setting up workspace
 
 ### Workspace basics

@@ -29,8 +29,6 @@ SRE.ai offers eighteen step types:
 
 Read below to learn about the parameters that can be customized within each step.
 
-***
-
 ## Create Change step customization
 
 The Create Change step features three customizable parameters:
@@ -41,9 +39,7 @@ The Create Change step features three customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 5.02.01 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-The Source Instances that are available depend on the Salesforce environment that you are connected to.
-
-***
+The available **Source Instances** depend on the Salesforce environment you are connected to.
 
 ## Create Collection step customization
 
@@ -55,9 +51,7 @@ The Create Change step features three customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 5.07.30 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-The Source Instances that are available depend on the Salesforce environment that you are connected to.
-
-***
+The available **Source Instances** depend on the Salesforce environment you are connected to.
 
 ## Add to Collection step customization
 
@@ -68,8 +62,6 @@ The Add to Collection step features two customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 5.08.46 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-***
-
 ## Remove from Collection step customization
 
 The Remove from Collection step features two customizable parameters:
@@ -78,8 +70,6 @@ The Remove from Collection step features two customizable parameters:
 * **Description**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 5.10.09 PM.png" alt="" width="375"><figcaption></figcaption></figure>
-
-***
 
 ## Import Changes step customization
 
@@ -98,7 +88,7 @@ The Import Changes step features six customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 5.12.58 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-The elements within the **Select Change** and **Select Source Instance** parameters are impacted by the environment you are connected to.
+The environment you connect to impacts the elements within the **Select Change** and **Select Source Instance** parameters.
 
 The **Changes filter** parameter features two options:
 
@@ -130,9 +120,7 @@ The Commit step features five customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 5.29.06 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-The elements within the **Select change,** **Select Source Instance,** and **Select Repository** parameters are impacted by the environment you are connected to.
-
-***
+The environment you connect to impacts the elements within the **Select Change**, **Select Source Instance**, and **Select Repository** parameters.
 
 ## Promote step customization
 
@@ -154,7 +142,7 @@ The Promote step features nine customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 6.05.48 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-The elements within the **Select Target Instance** and **Select Change** parameters are impacted by the environment that you are connected to.
+The environment you connect to impacts the elements within the **Select Target Instance** and **Select Change** parameters.
 
 The **Conflict resolution** parameter offers four options:
 
@@ -164,8 +152,6 @@ The **Conflict resolution** parameter offers four options:
 * Favor target branch
 
 </details>
-
-***
 
 ## Deploy step customization
 
@@ -181,9 +167,7 @@ The Deploy step features seven customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 6.19.19 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-The elements within the **Select Target Instance**, **Select Collection**, and **Select Source** parameters are impacted by the environment you are connected to.
-
-***
+The environment you connect to impacts the elements within the **Select Target Instance**, **Select Collection**, and **Select Source** parameters.
 
 ## Install Package step customization
 
@@ -200,16 +184,14 @@ The Install Package step features nine customizable parameters:
 * **Package Options**
 * **Installation key**
 * **Package access type**
-* **Upgrade tupe**
+* **Upgrade type**
 * **Apex compile option**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 6.21.28 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-The elements within the **Select Target Instance** and **Select DevHub Instance** parameters are impacted by the environment you are connected to.
+The environment you connect to impacts the elements within the **Select Target Instance** and **Select DevHub Instance** parameters.
 
 </details>
-
-***
 
 ## Create Package Version step customization
 
@@ -227,7 +209,7 @@ The Create Package step features five main customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 7.09.26 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-The elements within the **Select DevHub Instance** parameter are impacted by the environment you are connected to.
+The environment you connect to impacts the elements within the **Select Target Instance** and **Select DevHub Instance** parameters.
 
 ### Hidden parameters
 
@@ -235,20 +217,18 @@ The Create Package Version step also features ten customizable parameters that a
 
 * **Definition file**
 * **Tag**
-* **Skip Validation** option - don't include second generation managed package (2GP) ancestors
+* **Skip Validation** option - don't include second-generation managed package (2GP) ancestors
 * **Code Coverage** option - calculate and store the code coverage percentage by running the packaged Apex tests included in this package version
 * **Skip Ancestor Check** option - overrides ancestry requirements, which allows you to specify a packaged ancestor that isn't the highest released package version
-* **Post Install Script**
+* **Post-Install Script**
 * **Uninstall Script**
-* **Post Install Url**
-* **Release Notes Url**
+* **Post Install URL**
+* **Release Notes URL**
 * **Language**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 7.10.20 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
 </details>
-
-***
 
 ## Create Scratch Org step customization
 
@@ -272,7 +252,7 @@ The Create Scratch Org step features five main customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-24 at 7.22.31 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-The elements within the **Select DevHub Instance** parameter are impacted by the environment you are connected to.
+The environment you connect to impacts the elements within the **Select DevHub Instance** parameter.
 
 ### Edition parameter options
 
@@ -305,8 +285,6 @@ The Create Scratch Org  step also features six customizable parameters that are 
 
 </details>
 
-***
-
 ## Update Jira Issue step customization
 
 The Update Jira Issue step features three main customizable parameters:
@@ -316,8 +294,6 @@ The Update Jira Issue step features three main customizable parameters:
 * **Select Connection (**_**required**_**)**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 10.32.46 AM.png" alt="" width="375"><figcaption></figcaption></figure>
-
-***
 
 ## Create Pull Request step customization
 
@@ -329,8 +305,6 @@ The Create Pull Request step features four main customizable parameters:
 * **Destination branch**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-28 at 7.00.12 PM.png" alt="" width="362"><figcaption></figcaption></figure>
-
-***
 
 ## Review Pull Request step customization
 
@@ -363,8 +337,6 @@ The AI Model parameter offers six options:
 
 </details>
 
-***
-
 ## Pull Request Exception step customization
 
 The Pull Request Exception step features eight main customizable parameters:
@@ -380,8 +352,6 @@ The Pull Request Exception step features eight main customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 11.02.22 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-***
-
 ## Summarize Change step customization
 
 The List Components step features three main customizable parameters:
@@ -392,8 +362,6 @@ The List Components step features three main customizable parameters:
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 1.44.58 PM.png" alt="" width="375"><figcaption></figcaption></figure>
 
-***
-
 ## List Components step customization
 
 The List Components step features three main customizable parameters:
@@ -403,8 +371,6 @@ The List Components step features three main customizable parameters:
 * **Select Connection (**_**required**_**)**
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-04-25 at 1.44.58 PM.png" alt="" width="375"><figcaption></figcaption></figure>
-
-***
 
 ## Post Slack Message step customization
 
