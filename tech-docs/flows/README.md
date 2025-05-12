@@ -19,8 +19,6 @@ With Flows, you define your goals without worrying about the technical details o
 
 Flows make it accessible for users of all technical backgrounds and reduce the learning curve significantly.
 
-***
-
 ## **Features**
 
 ### **Triggers**
@@ -62,8 +60,6 @@ Here are some functions you can execute with combinations of Triggers and Steps:
 * Enhance team communication by posting messages to Slack channels directly from your workflows
 
 Learn more about example Flows by reading [SRE.AI's Flows Cookbook documentation](cookbook.md).
-
-***
 
 ## **Getting started with Flows**
 

@@ -48,8 +48,6 @@ description: Learn how to set up SRE.ai in Slack.
    1. Type "@SRE" in the chat
    2. Accept Slack's prompt to invite the bot
 
-***
-
 ## SRE.ai web app configuration
 
 1. Click **Manage \[your workspace]** in the SRE web application
