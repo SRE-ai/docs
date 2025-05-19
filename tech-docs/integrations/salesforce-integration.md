@@ -22,11 +22,15 @@ The Salesforce environment connected to the workspace **acts as a remote connect
 
 ### Ensure functionality
 
+{% hint style="danger" %}
+New users must verify their email address in the Salesforce user record before being granted access.
+{% endhint %}
+
 Post installation, **grant the SRE users permission to access the objects, classes, and other components.**\
 \
 This step is required for functionality to work as expected.
 
-{% hint style="info" %}
+{% hint style="success" %}
 Please ignore the warning. We are working through the Security Review for the AppExchange Partner Program.
 {% endhint %}
 
