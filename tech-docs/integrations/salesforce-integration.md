@@ -10,7 +10,7 @@ The Salesforce environment connected to the workspace **acts as a remote connect
 
 ### Installing the managed package
 
-1. Log into your Salesforce environment
+1. Log in to your Salesforce environment
 2. Use the following link to install the managed package
 
 ```javascript
@@ -26,7 +26,7 @@ The Salesforce environment connected to the workspace **acts as a remote connect
 New users must verify their email address in the Salesforce user record before being granted access.
 {% endhint %}
 
-Post installation, **grant the SRE users permission to access the objects, classes, and other components.**\
+After installation, grant SRE users permission to access **objects, classes, and other components.**\
 \
 This step is required for functionality to work as expected.
 

@@ -17,7 +17,7 @@ Flows take a declarative approach.&#x20;
 
 With Flows, you define your goals without worrying about the technical details of how they are achieved.
 
-Flows make it accessible for users of all technical backgrounds and reduce the learning curve significantly.
+Flows make it accessible to users of all technical backgrounds and significantly reduce the learning curve.
 
 ## **Features**
 
@@ -40,7 +40,7 @@ Learn more about Triggers in[ SRE.ai's Triggers documentation](triggers/).
 
 Steps define a Flow's execution.
 
-Steps let you arrange the string of instances and dependencies that will occur after a Trigger.
+Steps allow you to arrange the sequence of instances and dependencies that will occur after a Trigger.
 
 Moreover, you can define specific conditions and criteria to keep a Step's execution smooth and error-free.
 

@@ -42,7 +42,7 @@ Quickly package and commit the latest changes from your Salesforce environment, 
 
 #### **Best for:**
 
-Teams that want to simply the commit process, maintain clean version control, and accelerate deployment pipelines by bundling:
+Teams that want to simplify the commit process, maintain clean version control, and accelerate deployment pipelines by bundling:
 
 * Change tracking
 * Imports
@@ -129,7 +129,7 @@ Teams using Jira to track release readiness and QA coordination.
 
 #### **Trigger:**
 
-Edit the Promote Trigger to activate when a collection is deployed
+Edit the Promote Trigger to activate when a collection is deployed.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 11.47.12 AM.png" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -153,7 +153,7 @@ Teams managing dynamic workspaces who want to automate the tracking of Sprint-re
 
 **Trigger:**
 
-Edit the Webhook Trigger to activate when a Jira issue that starts with "CRM" is assigned to a sprint and is newly created or updated
+Edit the Webhook Trigger to activate when a Jira issue that starts with "CRM" is assigned to a sprint and is newly created or updated.
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-04-28 at 7.14.32 PM.png" alt="" width="353"><figcaption></figcaption></figure>
 
